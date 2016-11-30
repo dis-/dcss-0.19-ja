@@ -12,6 +12,7 @@
 
 #include "artefact.h"
 #include "chardump.h"
+#include "database.h"
 #include "dbg-util.h"
 #include "describe.h"
 #include "env.h"

@@ -35,6 +35,7 @@
 #include "itemname.h"
 #include "itemprop.h"
 #include "items.h"
+#include "japanese.h"
 #include "libutil.h"
 #include "makeitem.h"
 #include "message.h"

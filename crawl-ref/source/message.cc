@@ -11,6 +11,7 @@
 
 #include "areas.h"
 #include "colour.h"
+#include "database.h"
 #include "delay.h"
 #include "english.h"
 #include "hints.h"

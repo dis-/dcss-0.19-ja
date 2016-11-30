@@ -17,6 +17,7 @@
 #include "branch.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "delay.h"
 #include "describe.h"
 #include "directn.h"

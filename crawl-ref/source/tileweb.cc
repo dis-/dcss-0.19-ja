@@ -16,6 +16,7 @@
 #include "branch.h"
 #include "command.h"
 #include "coord.h"
+#include "database.h"
 #include "directn.h"
 #include "english.h"
 #include "env.h"

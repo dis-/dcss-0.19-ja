@@ -12,6 +12,7 @@
 #include "art-enum.h" // unrand -> magic staff silliness
 #include "artefact.h"
 #include "colour.h"
+#include "database.h"
 #include "decks.h"
 #include "describe.h"
 #include "dungeon.h"

@@ -15,6 +15,7 @@
 #include "art-enum.h"
 #include "colour.h"
 #include "coordit.h"
+#include "database.h"
 #include "dungeon.h"
 #include "english.h"
 #include "godconduct.h"

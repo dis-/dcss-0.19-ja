@@ -34,6 +34,7 @@
 #include "cloud.h"
 #include "coordit.h"
 #include "dactions.h"
+#include "database.h"
 #include "dgn-overview.h"
 #include "directn.h"
 #include "dungeon.h"

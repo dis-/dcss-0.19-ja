@@ -8,6 +8,7 @@
 
 #include "spl-monench.h"
 
+#include "database.h"
 #include "env.h"
 #include "message.h"
 #include "spl-util.h"

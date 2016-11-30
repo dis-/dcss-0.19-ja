@@ -13,6 +13,7 @@
 #include <cstring>
 
 #include "branch.h"
+#include "database.h"
 #include "describe.h"
 #include "env.h"
 #include "feature.h"

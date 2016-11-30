@@ -9,6 +9,7 @@
 #include "describe-spells.h"
 
 #include "cio.h"
+#include "database.h"
 #include "delay.h"
 #include "describe.h"
 #include "externs.h"

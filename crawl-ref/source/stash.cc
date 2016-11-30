@@ -17,6 +17,7 @@
 #include "cluautil.h"
 #include "command.h"
 #include "coordit.h"
+#include "database.h"
 #include "describe.h"
 #include "describe-spells.h"
 #include "directn.h"

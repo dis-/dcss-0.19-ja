@@ -9,6 +9,7 @@
 #include "art-enum.h"
 #include "attack.h"
 #include "chardump.h"
+#include "database.h"
 #include "directn.h"
 #include "env.h"
 #include "fight.h" // apply_chunked_ac

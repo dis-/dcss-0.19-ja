@@ -12,8 +12,10 @@
 #include <vector>
 
 #include "branch.h"
+#include "database.h"
 #include "english.h"
 #include "hiscores.h"
+#include "japanese.h"
 #include "message.h"
 #include "mutation.h"
 #include "options.h"

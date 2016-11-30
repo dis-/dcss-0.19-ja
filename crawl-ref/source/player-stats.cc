@@ -4,6 +4,7 @@
 
 #include "artefact.h"
 #include "clua.h"
+#include "database.h"
 #include "delay.h"
 #include "files.h"
 #include "godpassive.h"

@@ -10,6 +10,7 @@
 #include <algorithm>
 
 #include "branch.h"
+#include "database.h"
 #include "dgn-overview.h"
 #include "message.h"
 #include "mon-util.h"

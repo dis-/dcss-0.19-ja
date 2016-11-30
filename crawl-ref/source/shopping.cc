@@ -16,6 +16,7 @@
 #include "butcher.h"
 #include "cio.h"
 #include "colour.h"
+#include "database.h"
 #include "decks.h"
 #include "describe.h"
 #include "dgn-overview.h"

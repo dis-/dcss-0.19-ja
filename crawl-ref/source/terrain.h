@@ -94,6 +94,8 @@ void slime_wall_damage(actor* act, int delay);
 
 void get_door_description(int door_size, const char** adjective,
                           const char** noun);
+void get_door_description_en(int door_size, const char** adjective,
+                          const char** noun);
 void feat_splash_noise(dungeon_feature_type feat);
 bool feat_destroys_items(dungeon_feature_type feat);
 bool feat_eliminates_items(dungeon_feature_type feat);

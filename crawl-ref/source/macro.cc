@@ -32,6 +32,7 @@
 #include <vector>
 
 #include "cio.h"
+#include "database.h"
 #include "files.h"
 #include "initfile.h"
 #include "libutil.h"

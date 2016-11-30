@@ -9,6 +9,7 @@
 #include "spl-other.h"
 
 #include "act-iter.h"
+#include "database.h"
 #include "delay.h"
 #include "env.h"
 #include "food.h"

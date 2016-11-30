@@ -2,6 +2,7 @@
 
 #include "godconduct.h"
 
+#include "database.h"
 #include "fight.h"
 #include "godabil.h" // ru sac key
 #include "goditem.h" // is_*_spell

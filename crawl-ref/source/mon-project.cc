@@ -15,6 +15,7 @@
 #include "act-iter.h"
 #include "areas.h"
 #include "cloud.h"
+#include "database.h"
 #include "directn.h"
 #include "env.h"
 #include "itemprop.h"

@@ -19,6 +19,7 @@
 #include "cloud.h"
 #include "colour.h"
 #include "coordit.h"
+#include "database.h"
 #include "dbg-scan.h"
 #include "delay.h"
 #include "dgn-overview.h"

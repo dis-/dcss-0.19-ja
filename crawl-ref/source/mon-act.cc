@@ -16,6 +16,7 @@
 #include "cloud.h"
 #include "colour.h"
 #include "coordit.h"
+#include "database.h"
 #include "dbg-scan.h"
 #include "delay.h"
 #include "directn.h" // feature_description_at

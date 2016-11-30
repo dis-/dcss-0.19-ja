@@ -9,6 +9,7 @@
 #include "act-iter.h"
 #include "colour.h"
 #include "coordit.h"
+#include "database.h"
 #include "dgn-height.h"
 #include "dungeon.h"
 #include "english.h"

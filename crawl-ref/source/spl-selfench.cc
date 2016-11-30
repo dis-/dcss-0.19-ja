@@ -13,6 +13,7 @@
 #include "art-enum.h"
 #include "butcher.h" // butcher_corpse
 #include "coordit.h" // radius_iterator
+#include "database.h"
 #include "godconduct.h"
 #include "godpassive.h"
 #include "hints.h"

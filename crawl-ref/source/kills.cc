@@ -10,6 +10,7 @@
 #include <algorithm>
 
 #include "clua.h"
+#include "database.h"
 #include "describe.h"
 #include "english.h"
 #include "files.h"

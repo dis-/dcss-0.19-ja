@@ -11,6 +11,7 @@
 #include "cio.h"
 #include "clua.h"
 #include "command.h"
+#include "database.h"
 #include "describe.h"
 #include "english.h" // apostrophise
 #include "evoke.h"

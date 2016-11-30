@@ -15,6 +15,7 @@
 #include <sstream>
 
 #include "ability.h"
+#include "database.h"
 #include "describe-god.h"
 #include "evoke.h"
 #include "exercise.h"

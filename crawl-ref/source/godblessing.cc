@@ -8,6 +8,7 @@
 #include "godblessing.h"
 
 #include "artefact.h"
+#include "database.h"
 #include "env.h"
 #include "itemprop.h"
 #include "items.h"

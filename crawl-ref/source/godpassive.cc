@@ -10,6 +10,7 @@
 #include "branch.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "directn.h"
 #include "env.h"
 #include "fight.h"

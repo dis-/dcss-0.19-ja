@@ -15,6 +15,7 @@
 #include "bloodspatter.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "delay.h"
 #include "dgn-shoals.h"
 #include "english.h"

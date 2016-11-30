@@ -13,6 +13,7 @@
 #include <string>
 #include <vector>
 
+#include "database.h"
 #include "format.h"
 #ifdef USE_TILE
  #include "tiledoll.h"

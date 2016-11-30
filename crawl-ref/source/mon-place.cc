@@ -18,6 +18,7 @@
 #include "cloud.h"
 #include "colour.h"
 #include "coordit.h"
+#include "database.h"
 #include "directn.h"
 #include "dungeon.h"
 #include "env.h"

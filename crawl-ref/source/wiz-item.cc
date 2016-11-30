@@ -15,6 +15,7 @@
 #include "art-enum.h"
 #include "cio.h"
 #include "coordit.h"
+#include "database.h"
 #include "dbg-util.h"
 #include "decks.h"
 #include "env.h"

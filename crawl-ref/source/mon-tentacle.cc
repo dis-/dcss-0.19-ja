@@ -9,6 +9,7 @@
 
 #include "act-iter.h"
 #include "coordit.h"
+#include "database.h"
 #include "delay.h"
 #include "env.h"
 #include "fprop.h"

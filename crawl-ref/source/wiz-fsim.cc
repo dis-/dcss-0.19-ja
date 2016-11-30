@@ -12,6 +12,7 @@
 #include "beam.h"
 #include "bitary.h"
 #include "coordit.h"
+#include "database.h"
 #include "dbg-util.h"
 #include "directn.h"
 #include "env.h"

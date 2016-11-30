@@ -16,6 +16,7 @@
 #include "areas.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "delay.h"
 #include "directn.h"
 #include "dungeon.h"

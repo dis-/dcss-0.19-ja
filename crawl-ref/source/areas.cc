@@ -13,6 +13,7 @@
 #include "art-enum.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "env.h"
 #include "fprop.h"
 #include "godconduct.h"

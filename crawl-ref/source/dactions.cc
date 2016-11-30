@@ -10,6 +10,7 @@
 #include "act-iter.h"
 #include "attitude-change.h"
 #include "coordit.h"
+#include "database.h"
 #include "decks.h"
 #include "dungeon.h"
 #include "godcompanions.h" // hepliaklqana_ancestor

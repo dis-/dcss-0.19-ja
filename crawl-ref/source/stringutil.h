@@ -239,6 +239,11 @@ vector<string> split_string(const string &sep, string s, bool trim = true,
 string make_time_string(time_t abs_time, bool terse = false);
 string make_file_time(time_t when);
 
+string sp2nbsp(const string &s);
+#define sp2nbspc(s) (sp2nbsp(s).c_str())
+string nbsp2sp(const string &s);
+#define nbsp2spc(s) (nbsp2sp(s).c_str())
+
 // Work around missing std::to_string. This will break when newlib adds
 // support for long double, which will enable std::to_string in libstdc++.
 //

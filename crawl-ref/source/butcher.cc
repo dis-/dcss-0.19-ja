@@ -9,6 +9,7 @@
 
 #include "bloodspatter.h"
 #include "command.h"
+#include "database.h"
 #include "delay.h"
 #include "env.h"
 #include "food.h"

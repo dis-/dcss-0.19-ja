@@ -41,6 +41,7 @@
 #include "itemprop.h"
 #include "items.h"
 #include "item_use.h"
+#include "japanese.h"
 #include "jobs.h"
 #include "libutil.h"
 #include "macro.h"

@@ -14,6 +14,7 @@
 #include "cloud.h"
 #include "colour.h"
 #include "coordit.h"
+#include "database.h"
 #include "directn.h"
 #include "english.h"
 #include "env.h"

@@ -5,6 +5,7 @@
 #include "areas.h"
 #include "branch.h"
 #include "cloud.h"
+#include "database.h"
 #include "env.h"
 #include "evoke.h"
 #include "food.h"

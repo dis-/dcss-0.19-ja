@@ -14,6 +14,7 @@
 #include "colour.h"
 #include "command.h"
 #include "coord.h"
+#include "database.h"
 #include "env.h"
 #include "hints.h"
 #include "invent.h"

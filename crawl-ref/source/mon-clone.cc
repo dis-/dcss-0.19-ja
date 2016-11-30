@@ -11,6 +11,7 @@
 #include "arena.h"
 #include "artefact.h"
 #include "coordit.h"
+#include "database.h"
 #include "directn.h"
 #include "env.h"
 #include "items.h"

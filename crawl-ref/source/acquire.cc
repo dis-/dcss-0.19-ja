@@ -17,6 +17,7 @@
 
 #include "artefact.h"
 #include "art-enum.h"
+#include "database.h"
 #include "dungeon.h"
 #include "food.h"
 #include "goditem.h"

@@ -9,6 +9,7 @@
 
 #include "areas.h"
 #include "coord.h"
+#include "database.h"
 #include "env.h"
 #include "fprop.h"
 #include "monster.h"

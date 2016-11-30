@@ -8,6 +8,7 @@
 #include "cloud.h"
 #include "coord.h"
 #include "coordit.h"
+#include "database.h"
 #include "english.h"
 #include "env.h"
 #include "fight.h"

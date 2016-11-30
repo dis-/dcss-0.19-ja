@@ -8,6 +8,7 @@
 #include "adjust.h"
 
 #include "ability.h"
+#include "database.h"
 #include "libutil.h"
 #include "invent.h"
 #include "items.h"

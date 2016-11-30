@@ -12,6 +12,7 @@
 #include "act-iter.h"
 #include "colour.h"
 #include "command.h"
+#include "database.h"
 #include "dungeon.h"
 #include "end.h"
 #include "food.h"

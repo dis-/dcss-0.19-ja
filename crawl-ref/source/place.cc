@@ -8,6 +8,7 @@
 #include "place.h"
 
 #include "branch.h"
+#include "database.h"
 #include "player.h"
 
 // Prepositional form of branch level name. For example, "in the

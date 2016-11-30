@@ -11,6 +11,7 @@
 #include <functional>
 
 #include "abyss.h"
+#include "database.h"
 #include "dbg-util.h"
 #include "food.h"
 #include "godabil.h"

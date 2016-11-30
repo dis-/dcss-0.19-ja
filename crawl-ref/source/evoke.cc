@@ -19,6 +19,7 @@
 #include "chardump.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "decks.h"
 #include "delay.h"
 #include "directn.h"

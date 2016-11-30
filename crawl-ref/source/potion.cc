@@ -11,6 +11,7 @@
 #include <cstring>
 
 #include "cloud.h"
+#include "database.h"
 #include "food.h"
 #include "godconduct.h"
 #include "godwrath.h" // reduce_xp_penance

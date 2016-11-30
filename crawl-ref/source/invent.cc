@@ -17,6 +17,7 @@
 #include "artefact.h"
 #include "colour.h"
 #include "command.h"
+#include "database.h"
 #include "decks.h"
 #include "describe.h"
 #include "env.h"

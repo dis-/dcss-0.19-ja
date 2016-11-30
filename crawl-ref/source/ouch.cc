@@ -26,6 +26,7 @@
 #include "chardump.h"
 #include "cloud.h"
 #include "colour.h"
+#include "database.h"
 #include "delay.h"
 #include "describe.h"
 #include "dgnevent.h"

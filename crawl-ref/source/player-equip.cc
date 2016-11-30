@@ -8,6 +8,7 @@
 #include "areas.h"
 #include "artefact.h"
 #include "art-enum.h"
+#include "database.h"
 #include "delay.h"
 #include "english.h" // conjugate_verb
 #include "evoke.h"

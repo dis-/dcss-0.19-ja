@@ -22,6 +22,7 @@
 #include "ghost.h"
 #include "godabil.h"
 #include "hints.h"
+#include "japanese.h"
 #include "jobs.h"
 #include "libutil.h"
 #include "macro.h"

@@ -8,6 +8,7 @@
 #include "prompt.h"
 
 #include "clua.h"
+#include "database.h"
 #include "delay.h"
 #include "libutil.h"
 #include "macro.h"

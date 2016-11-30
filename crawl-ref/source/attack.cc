@@ -16,6 +16,7 @@
 
 #include "art-enum.h"
 #include "chardump.h"
+#include "database.h"
 #include "delay.h"
 #include "english.h"
 #include "env.h"
@@ -26,6 +27,7 @@
 #include "godpassive.h" // passive_t::no_haste
 #include "itemname.h"
 #include "itemprop.h"
+#include "japanese.h"
 #include "message.h"
 #include "mon-behv.h"
 #include "mon-clone.h"

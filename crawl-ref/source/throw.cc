@@ -13,6 +13,7 @@
 #include "artefact.h"
 #include "chardump.h"
 #include "command.h"
+#include "database.h"
 #include "directn.h"
 #include "english.h"
 #include "env.h"

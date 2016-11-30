@@ -11,6 +11,7 @@
 #include <unistd.h>
 #endif
 
+#include "database.h"
 #include "dbg-util.h"
 #include "delay.h"
 #include "directn.h"

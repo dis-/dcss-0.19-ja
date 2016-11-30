@@ -9,6 +9,7 @@
 #include "cloud.h"
 #include "coord.h"
 #include "coordit.h"
+#include "database.h"
 #include "delay.h"
 #include "directn.h"
 #include "env.h"

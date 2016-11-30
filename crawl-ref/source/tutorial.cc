@@ -7,6 +7,7 @@
 
 #include "tutorial.h"
 
+#include "database.h"
 #include "hints.h"
 #include "message.h"
 #include "skills.h"

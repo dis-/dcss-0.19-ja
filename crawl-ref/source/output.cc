@@ -14,6 +14,7 @@
 #include "ability.h"
 #include "branch.h"
 #include "colour.h"
+#include "database.h"
 #include "describe.h"
 #ifndef USE_TILE_LOCAL
 #include "directn.h"

@@ -15,6 +15,7 @@
 #include "cloud.h"
 #include "coord.h"
 #include "coordit.h"
+#include "database.h"
 #include "dgnevent.h"
 #include "dgn-overview.h"
 #include "directn.h"

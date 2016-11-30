@@ -2,6 +2,7 @@
 
 #include "mon-pathfind.h"
 
+#include "database.h"
 #include "directn.h"
 #include "env.h"
 #include "los.h"

@@ -310,15 +310,20 @@ public:
 
     string name(description_level_type type, bool force_visible = false,
                 bool force_article = false) const override;
+    string name_en(description_level_type type, bool force_visible = false,
+                   bool force_article = false) const;
 
     // Base name of the monster, bypassing any mname setting. For an orc priest
     // named Arbolt, name() will return "Arbolt", but base_name() will return
     // "orc priest".
     string base_name(description_level_type type,
                      bool force_visible = false) const;
+    string base_name_en(description_level_type type,
+                    bool force_visible = false) const;
     // Full name of the monster. For an orc priest named Arbolt, full_name()
     // will return "Arbolt the orc priest".
     string full_name(description_level_type type) const;
+    string full_name_en(description_level_type type, bool use_comma = false) const;
     string pronoun(pronoun_type pro, bool force_visible = false) const override;
     string conj_verb(const string &verb) const override;
     string hand_name(bool plural, bool *can_plural = nullptr) const override;

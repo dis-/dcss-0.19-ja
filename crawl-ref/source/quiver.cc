@@ -13,6 +13,7 @@
 
 #include <algorithm>
 
+#include "database.h"
 #include "env.h"
 #include "invent.h"
 #include "itemprop.h"

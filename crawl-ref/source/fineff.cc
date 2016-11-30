@@ -12,6 +12,7 @@
 #include "bloodspatter.h"
 #include "coordit.h"
 #include "dactions.h"
+#include "database.h"
 #include "directn.h"
 #include "english.h"
 #include "env.h"

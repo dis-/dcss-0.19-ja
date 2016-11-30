@@ -8,6 +8,7 @@
 #include "orb.h"
 
 #include "areas.h"
+#include "database.h"
 #include "godpassive.h" // passive_t::slow_orb_run
 #include "shout.h"
 #include "view.h"

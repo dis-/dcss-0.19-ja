@@ -20,6 +20,7 @@
 #include "chardump.h"
 #include "cloud.h"
 #include "coordit.h"
+#include "database.h"
 #include "delay.h"
 #include "english.h"
 #include "env.h"

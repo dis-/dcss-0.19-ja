@@ -11,6 +11,7 @@
 #include "branch.h"
 #include "coordit.h"
 #include "dactions.h"
+#include "database.h"
 #include "delay.h"
 #include "describe.h"
 #include "dgn-overview.h"

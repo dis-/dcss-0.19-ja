@@ -22,6 +22,7 @@
 
 #include "beam.h"          // For Lajatang of Order's silver damage
 #include "cloud.h"         // For storm bow's and robe of clouds' rain
+#include "database.h"
 #include "english.h"       // For apostrophise
 #include "exercise.h"      // For practise_evoking
 #include "fight.h"

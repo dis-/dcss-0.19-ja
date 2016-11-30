@@ -10,6 +10,7 @@
 #include "areas.h"
 #include "art-enum.h"
 #include "coord.h"
+#include "database.h"
 #include "env.h"
 #include "fprop.h"
 #include "state.h"
