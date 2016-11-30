@@ -7,6 +7,7 @@
 #include "AppHdr.h"
 
 #include "database.h"
+#include "itemprop.h"
 #include "japanese.h"
 #include "stringutil.h"
 
@@ -19,7 +20,6 @@ const char * counter_suffix_weapon(const item_def& item)
     case WPN_HAMMER:
     case WPN_MACE:
     case WPN_MORNINGSTAR:
-    case WPN_ROD:
     case WPN_EVENINGSTAR:
     case WPN_GREAT_MACE:
     case WPN_SPEAR:
@@ -29,7 +29,7 @@ const char * counter_suffix_weapon(const item_def& item)
     case WPN_BARDICHE:
     case WPN_BLOWGUN:
     case WPN_HUNTING_SLING:
-    case WPN_GREATSLING:
+    case WPN_FUSTIBALUS:
     case WPN_DEMON_WHIP:
     case WPN_GIANT_CLUB:
     case WPN_GIANT_SPIKED_CLUB:
@@ -146,7 +146,6 @@ const char * counter_suffix_misc(const item_def& item)
     {
     case MISC_FAN_OF_GALES:
     case MISC_LAMP_OF_FIRE:
-    case MISC_LANTERN_OF_SHADOWS:
     case MISC_HORN_OF_GERYON:
     case MISC_BOX_OF_BEASTS:
     case MISC_CRYSTAL_BALL_OF_ENERGY:
