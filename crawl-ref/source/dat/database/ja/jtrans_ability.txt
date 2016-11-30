@@ -7,13 +7,712 @@ no special abilities
 
 no special abilities
 %%%%
+No ability
+
+特殊能力なし
+#{ ABIL_NON_ABILITY, "No ability", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Spit Poison
+
+毒の唾液
+#{ ABIL_SPIT_POISON, "Spit Poison", 0, 0, 40, 0, 0, ABFLAG_BREATH},
+%%%%
+Blink
+
+瞬間移動
+#{ ABIL_BLINK, "Blink", 0, 50, 50, 0, 0, ABFLAG_NONE},
+%%%%
+Breathe Fire
+
+火炎のブレス
+#{ ABIL_BREATHE_FIRE, "Breathe Fire", 0, 0, 125, 0, 0, ABFLAG_BREATH},
+%%%%
+Breathe Frost
+
+凍気のブレス
+#{ ABIL_BREATHE_FROST, "Breathe Frost", 0, 0, 125, 0, 0, ABFLAG_BREATH},
+%%%%
+Breathe Poison Gas
+
+毒ガスのブレス
+#{ ABIL_BREATHE_POISON, "Breathe Poison Gas",
+%%%%
+Breathe Noxious Fumes
+
+悪臭雲のブレス
+#{ ABIL_BREATHE_MEPHITIC, "Breathe Noxious Fumes",
+%%%%
+Breathe Lightning
+
+稲妻のブレス
+#{ ABIL_BREATHE_LIGHTNING, "Breathe Lightning",
+%%%%
+Breathe Dispelling Energy
+
+解呪のブレス
+#{ ABIL_BREATHE_POWER, "Breathe Dispelling Energy", 0, 0, 125, 0, 0, ABFLAG_BREATH},
+%%%%
+Breathe Sticky Flame
+
+焼夷のブレス
+#{ ABIL_BREATHE_STICKY_FLAME, "Breathe Sticky Flame",
+%%%%
+Breathe Steam
+
+蒸気のブレス
+#{ ABIL_BREATHE_STEAM, "Breathe Steam", 0, 0, 75, 0, 0, ABFLAG_BREATH},
+%%%%
+Bat Form
+
+蝙蝠の躰
+#{ ABIL_TRAN_BAT, "Bat Form", 2, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Bottle Blood
+
+血の薬の作成
+#{ ABIL_BOTTLE_BLOOD, "Bottle Blood", 0, 0, 0, 0, 0, ABFLAG_NONE}, // no costs
+%%%%
+Spit Acid
+
+酸の唾液
+#{ ABIL_SPIT_ACID, "Spit Acid", 0, 0, 125, 0, 0, ABFLAG_BREATH},
+%%%%
+Fly
+
+飛行
+#{ ABIL_FLY, "Fly", 3, 0, 100, 0, 0, ABFLAG_NONE},
+%%%%
+Stop Flying
+
+飛行の停止
+#{ ABIL_STOP_FLYING, "Stop Flying", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Hurl Damnation
+
+Hurl Damnation
+%%%%
+Release Delayed Fireball
+
+遅延式ファイアボール
+#{ ABIL_DELAYED_FIREBALL, "Release Delayed Fireball",
+%%%%
+Stop Singing
+
+歌うのをやめる
+#{ ABIL_STOP_SINGING, "Stop Singing",
+%%%%
+Dig
+
+掘削
+#{ ABIL_DIG, "Dig", 0, 0, 0, 0, ABFLAG_INSTANT},
+%%%%
+Shaft Self
+
+縦穴掘り
+#{ ABIL_SHAFT_SELF, "Shaft Self", 0, 0, 250, 0, ABFLAG_DELAY},
+%%%%
+Evoke
+
+Evoke
+%%%%
+Evoke Blink
+
+瞬間移動の喚起
+#{ ABIL_EVOKE_BLINK, "Evoke Blink", 1, 0, 50, 0, 0, ABFLAG_NONE},
+%%%%
+Device Recharging
+
+魔道具の充填
+#{ ABIL_RECHARGING, "Device Recharging", 1, 0, 0, 0, 0, ABFLAG_PERMANENT_MP},
+%%%%
+Evoke Berserk Rage
+
+バーサークの喚起
+#{ ABIL_EVOKE_BERSERK, "Evoke Berserk Rage", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Evoke Invisibility
+
+透明化の喚起
+#{ ABIL_EVOKE_TURN_INVISIBLE, "Evoke Invisibility",
+%%%%
+Turn Visible
+
+可視の存在に戻る
+#{ ABIL_EVOKE_TURN_VISIBLE, "Turn Visible", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Evoke Flight
+
+飛行の喚起
+#{ ABIL_EVOKE_FLIGHT, "Evoke Flight", 1, 0, 100, 0, 0, ABFLAG_NONE},
+%%%%
+Evoke Fog
+
+煙幕の喚起
+#{ ABIL_EVOKE_FOG, "Evoke Fog", 2, 0, 250, 0, 0, ABFLAG_NONE},
+%%%%
+End Transformation
+
+変身の停止
+#{ ABIL_END_TRANSFORMATION, "End Transformation", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Recite
+
+朗読
+#{ ABIL_ZIN_RECITE, "Recite", 0, 0, 0, 0, 0, ABFLAG_BREATH},
+%%%%
+Vitalisation
+
+生命の活性化
+#{ ABIL_ZIN_VITALISATION, "Vitalisation", 0, 0, 0, 1, 0, ABFLAG_CONF_OK},
+%%%%
+Imprison
+
+収監
+#{ ABIL_ZIN_IMPRISON, "Imprison", 5, 0, 125, 4, 0, ABFLAG_NONE},
+%%%%
+Sanctuary
+
+聖域
+#{ ABIL_ZIN_SANCTUARY, "Sanctuary", 7, 0, 150, 15, 0, ABFLAG_NONE},
+%%%%
+Cure All Mutations
+
+全ての突然変異の治療
+#{ ABIL_ZIN_CURE_ALL_MUTATIONS, "Cure All Mutations",
+%%%%
+Donate Gold
+
+Donate Gold
+%%%%
+Divine Shield
+
+神気の盾
+#{ ABIL_TSO_DIVINE_SHIELD, "Divine Shield", 3, 0, 50, 2, 0, ABFLAG_NONE},
+%%%%
+Cleansing Flame
+
+浄化の炎
+#{ ABIL_TSO_CLEANSING_FLAME, "Cleansing Flame",
+%%%%
+Summon Divine Warrior
+
+聖なる戦士の召喚
+#{ ABIL_TSO_SUMMON_DIVINE_WARRIOR, "Summon Divine Warrior",
+%%%%
+Brand Weapon With Holy Wrath
+
+Brand Weapon With Holy Wrath
+%%%%
+Receive Corpses
+
+死体の受理
+#{ ABIL_KIKU_RECEIVE_CORPSES, "Receive Corpses",
+%%%%
+Torment
+
+苦痛の紋章
+#{ ABIL_KIKU_TORMENT, "Torment", 4, 0, 0, 8, 0, ABFLAG_NONE},
+%%%%
+Receive Necronomicon
+
+Receive Necronomicon
+%%%%
+Brand Weapon With Pain
+
+Brand Weapon With Pain
+%%%%
+Injury Mirror
+
+損傷の反射
+#{ ABIL_YRED_INJURY_MIRROR, "Injury Mirror", 0, 0, 0, 0, 0, ABFLAG_PIETY},
+%%%%
+Animate Remains
+
+死体の蘇生
+#{ ABIL_YRED_ANIMATE_REMAINS, "Animate Remains",
+%%%%
+Recall Undead Slaves
+
+アンデッドの招集
+#{ ABIL_YRED_RECALL_UNDEAD_SLAVES, "Recall Undead Slaves",
+%%%%
+Animate Dead
+
+死霊の蘇生
+#{ ABIL_YRED_ANIMATE_DEAD, "Animate Dead", 2, 0, 100, 0, 0, ABFLAG_NONE},
+%%%%
+Drain Life
+
+生命力の吸収
+#{ ABIL_YRED_DRAIN_LIFE, "Drain Life", 6, 0, 200, 2, 0, ABFLAG_NONE},
+%%%%
+Enslave Soul
+
+魂の隷属
+#{ ABIL_YRED_ENSLAVE_SOUL, "Enslave Soul", 8, 0, 150, 4, 0, ABFLAG_NONE},
+%%%%
+Heroism
+
+英雄化
+#{ ABIL_OKAWARU_HEROISM, "Heroism", 2, 0, 50, 1, 0, ABFLAG_NONE},
+%%%%
+Finesse
+
+早業の技巧
+#{ ABIL_OKAWARU_FINESSE, "Finesse", 5, 0, 100, 4, 0, ABFLAG_NONE},
+%%%%
+Minor Destruction
+
+小さき破壊
+#{ ABIL_MAKHLEB_MINOR_DESTRUCTION, "Minor Destruction",
+%%%%
+Lesser Servant of Makhleb
+
+マクレブの小さきしもべ
+#{ ABIL_MAKHLEB_LESSER_SERVANT_OF_MAKHLEB, "Lesser Servant of Makhleb",
+%%%%
+Major Destruction
+
+大いなる破壊
+#{ ABIL_MAKHLEB_MAJOR_DESTRUCTION, "Major Destruction",
+%%%%
+Greater Servant of Makhleb
+
+マクレブの大いなるしもべ
+#{ ABIL_MAKHLEB_GREATER_SERVANT_OF_MAKHLEB, "Greater Servant of Makhleb",
+%%%%
+Divine Energy
+
+Divine Energy
+%%%%
+Stop Divine Energy
+
+Stop Divine Energy
+%%%%
+Forget Spell
+
+呪文の忘却
+#{ ABIL_SIF_MUNA_FORGET_SPELL, "Forget Spell", 5, 0, 0, 8, 0, ABFLAG_NONE},
+%%%%
+Channel Magic
+
+Channel Magic
+%%%%
+Burn Spellbooks
+
+魔法書の焼却
+#{ ABIL_TROG_BURN_SPELLBOOKS, "Burn Spellbooks",
+%%%%
+Berserk
+
+バーサーク
+#{ ABIL_TROG_BERSERK, "Berserk", 0, 0, 200, 0, 0, ABFLAG_NONE},
+%%%%
+Trog's Hand
+
+トログの御手
+#{ ABIL_TROG_REGEN_MR, "Trog's Hand",
+%%%%
+Brothers in Arms
+
+戦友の召喚
+#{ ABIL_TROG_BROTHERS_IN_ARMS, "Brothers in Arms",
+%%%%
+Divine Protection
+
+絶対絶命時の防護
+#{ ABIL_ELYVILON_LIFESAVING, "Divine Protection",
+%%%%
+Lesser Healing
+
+小さき癒し
+#{ ABIL_ELYVILON_LESSER_HEALING, "Lesser Healing",
+%%%%
+Heal Other
+
+他者への癒し
+#{ ABIL_ELYVILON_HEAL_OTHER, "Heal Other",
+%%%%
+Purification
+
+聖杯の清め
+#{ ABIL_ELYVILON_PURIFICATION, "Purification", 3, 0, 300, 3, 0,
+%%%%
+Greater Healing
+
+大いなる癒し
+#{ ABIL_ELYVILON_GREATER_HEALING, "Greater Healing",
+%%%%
+Divine Vigour
+
+神秘の活力
+#{ ABIL_ELYVILON_DIVINE_VIGOUR, "Divine Vigour", 0, 0, 600, 6, 0,
+%%%%
+Depart the Abyss
+
+アビスからの離脱
+#{ ABIL_LUGONU_ABYSS_EXIT, "Depart the Abyss",
+%%%%
+Bend Space
+
+空間の歪曲
+#{ ABIL_LUGONU_BEND_SPACE, "Bend Space", 1, 0, 50, 0, 0, ABFLAG_PAIN},
+%%%%
+Banish
+
+追放
+#{ ABIL_LUGONU_BANISH, "Banish",
+%%%%
+Corrupt
+
+階層の崩壊
+#{ ABIL_LUGONU_CORRUPT, "Corrupt",
+%%%%
+Enter the Abyss
+
+アビスへの門
+#{ ABIL_LUGONU_ABYSS_ENTER, "Enter the Abyss",
+%%%%
+Brand Weapon With Distortion
+
+Brand Weapon With Distortion
+%%%%
+Triple Draw
+
+トリプル・ドロー
+#{ ABIL_NEMELEX_TRIPLE_DRAW, "Triple Draw", 2, 0, 100, 2, 0, ABFLAG_NONE},
+%%%%
+Deal Four
+
+ディール・フォー
+#{ ABIL_NEMELEX_DEAL_FOUR, "Deal Four", 8, 0, 200, 10, 0, ABFLAG_NONE},
+%%%%
+Stack Five
+
+スタック・ファイブ
+#{ ABIL_NEMELEX_STACK_FIVE, "Stack Five", 5, 0, 250, 10, 0, ABFLAG_NONE},
+%%%%
+Smiting
+
+打擲の一撃
+#{ ABIL_BEOGH_SMITING, "Smiting",
+%%%%
+Recall Orcish Followers
+
+オークの下僕の招集
+#{ ABIL_BEOGH_RECALL_ORCISH_FOLLOWERS, "Recall Orcish Followers",
+%%%%
+Give Item to Named Follower
+
+名のある仲間への下賜
+#{ ABIL_BEOGH_GIFT_ITEM, "Give Item to Named Follower",
+%%%%
+Resurrection
+
+Resurrection
+%%%%
+Request Jelly
+
+ジェリーの要請
+#{ ABIL_JIYVA_CALL_JELLY, "Request Jelly", 2, 0, 20, 1, 0, ABFLAG_NONE},
+%%%%
+Slimify
+
+スライム化
+#{ ABIL_JIYVA_SLIMIFY, "Slimify", 4, 0, 100, 8, 0, ABFLAG_NONE},
+%%%%
+Cure Bad Mutation
+
+悪性変異の治療
+#{ ABIL_JIYVA_CURE_BAD_MUTATION, "Cure Bad Mutation",
+%%%%
+Fungal Bloom
+
+Fungal Bloom
+%%%%
+Evolution
+
+植物の改良
+#{ ABIL_FEDHAS_EVOLUTION, "Evolution", 2, 0, 0, 0, 0, ABFLAG_VARIABLE_FRUIT},
+%%%%
+Sunlight
+
+陽光
+#{ ABIL_FEDHAS_SUNLIGHT, "Sunlight", 2, 0, 50, 0, 0, ABFLAG_NONE},
+%%%%
+Growth
+
+迷宮草の生育
+#{ ABIL_FEDHAS_PLANT_RING, "Growth", 2, 0, 0, 0, 0, ABFLAG_FRUIT},
+%%%%
+Reproduction
+
+胞子の繁殖
+#{ ABIL_FEDHAS_SPAWN_SPORES, "Reproduction", 4, 0, 100, 0, 0, ABFLAG_NONE},
+%%%%
+Rain
+
+降雨
+#{ ABIL_FEDHAS_RAIN, "Rain", 4, 0, 150, 4, 0, ABFLAG_NONE},
+%%%%
+Bend Time
+
+時間の歪曲
+#{ ABIL_CHEIBRIADOS_TIME_BEND, "Bend Time", 3, 0, 50, 1, 0, ABFLAG_NONE},
+%%%%
+Temporal Distortion
+
+現世の歪曲
+#{ ABIL_CHEIBRIADOS_DISTORTION, "Temporal Distortion",
+%%%%
+Slouch
+
+屈服
+#{ ABIL_CHEIBRIADOS_SLOUCH, "Slouch", 5, 0, 100, 8, 0, ABFLAG_NONE},
+%%%%
+Step From Time
+
+時間からの離脱
+#{ ABIL_CHEIBRIADOS_TIME_STEP, "Step From Time",
+%%%%
+Curse Item
+
+Curse Item
+%%%%
+Scrying
+
+幻視
+#{ ABIL_ASHENZARI_SCRYING, "Scrying",
+%%%%
+Transfer Knowledge
+
+知識の移行
+#{ ABIL_ASHENZARI_TRANSFER_KNOWLEDGE, "Transfer Knowledge",
+%%%%
+End Transfer Knowledge
+
+知識の移行の停止
+#{ ABIL_ASHENZARI_END_TRANSFER, "End Transfer Knowledge",
+%%%%
+Shadow Step
+
+影渡り
+#{ ABIL_DITHMENOS_SHADOW_STEP, "Shadow Step",
+%%%%
+Shadow Form
+
+影の躯
+#{ ABIL_DITHMENOS_SHADOW_FORM, "Shadow Form",
+%%%%
+Draw Out Power
+
+力の解放
+#{ ABIL_RU_DRAW_OUT_POWER, "Draw Out Power",
+%%%%
+Power Leap
+
+力強き跳躍
+#{ ABIL_RU_POWER_LEAP, "Power Leap",
+%%%%
+Apocalypse
+
+黙示録
+#{ ABIL_RU_APOCALYPSE, "Apocalypse",
+%%%%
+Sacrifice Purity
+
+清浄の犠牲
+#{ ABIL_RU_SACRIFICE_PURITY, "Sacrifice Purity",
+%%%%
+Sacrifice Words
+
+言語の犠牲
+#{ ABIL_RU_SACRIFICE_WORDS, "Sacrifice Words",
+%%%%
+Sacrifice Drink
+
+飲用の犠牲
+#{ ABIL_RU_SACRIFICE_DRINK, "Sacrifice Drink",
+%%%%
+Sacrifice Essence
+
+魔力の犠牲
+#{ ABIL_RU_SACRIFICE_ESSENCE, "Sacrifice Essence",
+%%%%
+Sacrifice Health
+
+健常の犠牲
+#{ ABIL_RU_SACRIFICE_HEALTH, "Sacrifice Health",
+%%%%
+Sacrifice Stealth
+
+隠密の犠牲
+#{ ABIL_RU_SACRIFICE_STEALTH, "Sacrifice Stealth",
+%%%%
+Sacrifice Artifice
+
+発動の犠牲
+#{ ABIL_RU_SACRIFICE_ARTIFICE, "Sacrifice Artifice",
+%%%%
+Sacrifice Love
+
+親愛の犠牲
+#{ ABIL_RU_SACRIFICE_LOVE, "Sacrifice Love",
+%%%%
+Sacrifice Courage
+
+勇気の犠牲
+#{ ABIL_RU_SACRIFICE_COURAGE, "Sacrifice Courage",
+%%%%
+Sacrifice Arcana
+
+秘術の犠牲
+#{ ABIL_RU_SACRIFICE_ARCANA, "Sacrifice Arcana",
+%%%%
+Sacrifice Nimbleness
+
+敏捷の犠牲
+#{ ABIL_RU_SACRIFICE_NIMBLENESS, "Sacrifice Nimbleness",
+%%%%
+Sacrifice Durability
+
+頑強の犠牲
+#{ ABIL_RU_SACRIFICE_DURABILITY, "Sacrifice Durability",
+%%%%
+Sacrifice a Hand
+
+片腕の犠牲
+#{ ABIL_RU_SACRIFICE_HAND, "Sacrifice a Hand",
+%%%%
+Sacrifice Experience
+
+経験の犠牲
+#{ ABIL_RU_SACRIFICE_EXPERIENCE, "Sacrifice Experience",
+%%%%
+Sacrifice Skill
+
+鍛錬の犠牲
+#{ ABIL_RU_SACRIFICE_SKILL, "Sacrifice Skill",
+%%%%
+Sacrifice an Eye
+
+片眼の犠牲
+#{ ABIL_RU_SACRIFICE_EYE, "Sacrifice an Eye",
+%%%%
+Sacrifice Resistance
+
+耐性の犠牲
+#{ ABIL_RU_SACRIFICE_RESISTANCE, "Sacrifice Resistance",
+%%%%
+Reject Sacrifices
+
+犠牲の拒否
+#{ ABIL_RU_REJECT_SACRIFICES, "Reject Sacrifices",
+%%%%
+Potion Petition
+
+水薬の陳情
+#{ ABIL_GOZAG_POTION_PETITION, "Potion Petition",
+%%%%
+Call Merchant
+
+商人の誘致
+#{ ABIL_GOZAG_CALL_MERCHANT, "Call Merchant",
+%%%%
+Bribe Branch
+
+分岐の買収
+#{ ABIL_GOZAG_BRIBE_BRANCH, "Bribe Branch",
+%%%%
+Upheaval
+
+自然の怒り
+#{ ABIL_QAZLAL_UPHEAVAL, "Upheaval", 4, 0, 0, 3, ABFLAG_NONE },
+%%%%
+Elemental Force
+
+精霊召喚
+#{ ABIL_QAZLAL_ELEMENTAL_FORCE, "Elemental Force",
+%%%%
+Disaster Area
+
+天よりの災禍
+#{ ABIL_QAZLAL_DISASTER_AREA, "Disaster Area", 7, 0, 0,
+%%%%
+Device Surge
+
+Device Surge
+%%%%
+Quick Charge
+
+Quick Charge
+%%%%
+Supercharge
+
+Supercharge
+%%%%
+Stomp
+
+Stomp
+%%%%
+Line Pass
+
+Line Pass
+%%%%
+Grand Finale
+
+Grand Finale
+%%%%
+Recall Ancestor
+
+Recall Ancestor
+%%%%
+Transference
+
+Transference
+%%%%
+Idealise
+
+Idealise
+%%%%
+Ancestor Life: Knight
+
+Ancestor Life: Knight
+%%%%
+Ancestor Life: Battlemage
+
+Ancestor Life: Battlemage
+%%%%
+Ancestor Life: Hexer
+
+Ancestor Life: Hexer
+%%%%
+Ancestor Identity
+
+Ancestor Identity
+%%%%
+Stop Recall
+
+招集の停止
+#{ ABIL_STOP_RECALL, "Stop Recall", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Renounce Religion
+
+信仰の放棄
+#{ ABIL_RENOUNCE_RELIGION, "Renounce Religion", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
+Convert to Beogh
+
+ベオへの改宗
+#{ ABIL_CONVERT_TO_BEOGH, "Convert to Beogh", 0, 0, 0, 0, 0, ABFLAG_NONE},
+%%%%
 , %d %sMP
 
 , %d %sMP
 %%%%
 Permanent 
 
-Permanent 
+最大 
 %%%%
 , MP
 
@@ -27,65 +726,61 @@ Permanent
 
 , %d %sHP
 %%%%
-Permanent 
-
-Permanent 
-%%%%
 , Hunger
 
-, Hunger
+, 空腹
 %%%%
 , Piety
 
-, Piety
+, 信仰値
 %%%%
 , Breath
 
-, Breath
+, 息
 %%%%
 , Delay
 
-, Delay
+, 時間
 %%%%
 , Pain
 
-, Pain
+, 苦痛
 %%%%
 , Exhaustion
 
-, Exhaustion
+, 疲労
 %%%%
 , Instant
 
-, Instant
+, 即時
 %%%%
 , Fruit
 
-, Fruit
+, 果物
 %%%%
 , Fruit or Piety
 
-, Fruit or Piety
+, 果物または信仰値
 %%%%
 , Skill drain
 
-, Skill drain
+, スキル減少
 %%%%
 , Scroll of remove curse
 
-, Scroll of remove curse
+, 解呪の巻物
 %%%%
 , %d Gold
 
-, %d Gold
+, %dゴールド
 %%%%
 , Free
 
-, Free
+, 無料
 %%%%
 , Gold
 
-, Gold
+, 金
 %%%%
 , 
 
@@ -97,23 +792,23 @@ Sacrifice
 %%%%
 None
 
-None
+なし
 %%%%
 extremely large
 
-extremely large
+特大
 %%%%
 large
 
-large
+大
 %%%%
 moderate
 
-moderate
+中
 %%%%
 small
 
-small
+小
 %%%%
 This ability costs: 
 
@@ -223,13 +918,13 @@ Sacrifices cannot be taken back.\n
 
  ability
 %%%%
-No description found.\n
+No description found.
 
-No description found.\n
+この能力の説明は見つからなかった。
 %%%%
- frowns upon the use of this ability.\n
+frowns upon the use of this ability.
 
- frowns upon the use of this ability.\n
+はこの能力の使用に難色を示した。
 %%%%
  ability
 
@@ -241,27 +936,27 @@ You can't untransform!
 %%%%
 Sorry, you're too full to transform right now.
 
-Sorry, you're too full to transform right now.
+残念ながら、あなたは満腹すぎて変身できない。
 %%%%
 You're already flying!
 
-You're already flying!
+あなたは既に飛行している！
 %%%%
 Sorry, you're not good enough to have a special ability.
 
-Sorry, you're not good enough to have a special ability.
+残念ながら、あなたはまだ特殊能力を獲得していない。
 %%%%
-Use which ability? (? or * to list) 
+Use which ability? (? or * to list)
 
-Use which ability? (? or * to list) 
+どの能力を使いますか? (? または * で一覧)
 %%%%
 You can't do that.
 
-You can't do that.
+あなたはそのようなことはできない。
 %%%%
 You cannot call out to %s while silenced.
 
-You cannot call out to %s while silenced.
+静寂中は%sに祈ることができない。
 %%%%
 hunger: %d, max. food_cost: %d, expected hunger: %d
 
@@ -269,7 +964,7 @@ hunger: %d, max. food_cost: %d, expected hunger: %d
 %%%%
 You don't have enough innate magic capacity to sacrifice.
 
-You don't have enough innate magic capacity to sacrifice.
+あなたは犠牲にできる持ち前の魔力の容量が十分にない。
 %%%%
 Really use 
 
@@ -277,7 +972,7 @@ Really use
 %%%%
 There's no appreciative audience!
 
-There's no appreciative audience!
+耳の肥えた聴衆が一人もいない！
 %%%%
 You are not zealous enough to affect this audience!
 
@@ -289,7 +984,7 @@ You have no mutations to be cured!
 %%%%
 There's already a sanctuary in place on this level.
 
-There's already a sanctuary in place on this level.
+この階層には既に他の聖域がある。
 %%%%
 You have nothing to donate!
 
@@ -297,27 +992,27 @@ You have nothing to donate!
 %%%%
 Nothing ails you!
 
-Nothing ails you!
+あなたは既に正常だ。
 %%%%
 You aren't in the Abyss!
 
-You aren't in the Abyss!
+あなたはアビスの中に居ない！
 %%%%
 You're already here!
 
-You're already here!
+あなたは既に目的地にいる！
 %%%%
 You have nothing more to learn.
 
-You have nothing more to learn.
+あなたはこれ以上学ぶことはない。
 %%%%
 No corpses are in range.
 
-No corpses are in range.
+視界内に死体がない。
 %%%%
 It's too cloudy to do that here.
 
-It's too cloudy to do that here.
+ここは既に煙幕で満たされている。
 %%%%
 The air is too still for clouds to form.
 
@@ -337,23 +1032,23 @@ You have no magic power.
 %%%%
 Stopping flight right now would be fatal!
 
-Stopping flight right now would be fatal!
+今飛行を止めるのは致命的だ！
 %%%%
 Turning back right now would cause you to %s!
 
-Turning back right now would cause you to %s!
+今変身を解除すると%sしてしまう！
 %%%%
 burn
 
-burn
+焼死
 %%%%
 drown
 
-drown
+溺死
 %%%%
 You fail to use your ability.
 
-You fail to use your ability.
+あなたは特殊能力の発動に失敗した。
 %%%%
 Weird ability return type
 
@@ -369,15 +1064,15 @@ You extend your mandibles.
 %%%%
 You are already prepared to dig.
 
-You are already prepared to dig.
+あなたは既に掘る準備ができている。
 %%%%
 Are you sure you want to shaft yourself?
 
-Are you sure you want to shaft yourself?
+本当に縦穴を掘りますか？
 %%%%
 Aiming: <white>Delayed Fireball</white>
 
-Aiming: <white>Delayed Fireball</white>
+目標: <white>遅延式ファイアボール</white>
 %%%%
 spit at
 
@@ -385,83 +1080,79 @@ spit at
 %%%%
 You spit a glob of burning liquid.
 
-You spit a glob of burning liquid.
+あなたは燃えたぎる液体の塊を吐きだした。
 %%%%
 You breathe a blast of fire
 
-You breathe a blast of fire
+あなたは強烈な火炎を吐きだした
 %%%%
 You exhale a wave of freezing cold.
 
-You exhale a wave of freezing cold.
+あなたは凍える冷気を吐きだした。
 %%%%
 You exhale a blast of poison gas.
 
-You exhale a blast of poison gas.
+あなたは猛毒のガスを吐きだした。
 %%%%
 You breathe a wild blast of lightning!
 
-You breathe a wild blast of lightning!
+あなたは強大な稲妻の奔流を吐いた！
 %%%%
 You spit a glob of acid.
 
-You spit a glob of acid.
+あなたは酸の塊を吐き出した。
 %%%%
-You breathe a bolt of dispelling energy.
+You spit a bolt of dispelling energy.
 
-You breathe a bolt of dispelling energy.
-%%%%
-You spit a glob of burning liquid.
-
-You spit a glob of burning liquid.
+あなたは魔力を解除するボルトを吐き出した。
 %%%%
 You exhale a blast of scalding steam.
 
-You exhale a blast of scalding steam.
+あなたは焼けつく蒸気を吹きかけた。
 %%%%
 You exhale a blast of noxious fumes.
 
-You exhale a blast of noxious fumes.
+あなたは悪臭のする雲を吹きかけた。
 %%%%
 You feel very comfortable in the air.
 
-You feel very comfortable in the air.
+あなたは空中にいることが非常に心地よい。
 %%%%
 You feel less transparent.
 
-You feel less transparent.
+あなたは透明でなくなった。
 %%%%
 You feel more buoyant.
 
-You feel more buoyant.
+あなたはより浮力を感じた。
 %%%%
 With a swish of your cloak, you release a cloud of fog.
 
-With a swish of your cloak, you release a cloud of fog.
+あなたがクロークを翻すと、そこから煙幕が放出された。
 %%%%
 You stop singing.
 
-You stop singing.
+あなたは歌うのをやめた。
 %%%%
 You clear your throat and prepare to recite.
 
-You clear your throat and prepare to recite.
+あなたは咳払いし、朗読の準備をした。
 %%%%
 You cannot imprison yourself!
 
-You cannot imprison yourself!
+自分自身を収監することはできない！
 %%%%
 There is no monster there to imprison!
 
-There is no monster there to imprison!
+そこには収監すべきモンスターがいない！
 %%%%
 You cannot imprison that!
 
-You cannot imprison that!
+それを収監することはできない！
 %%%%
 You cannot imprison a law-abiding creature!
 
-You cannot imprison a law-abiding creature!
+あなたは法を守っているモンスターを収監することはできない！
 %%%%
  will bless one of your weapons.
 
@@ -469,11 +1160,11 @@ You cannot imprison a law-abiding creature!
 %%%%
 There are no corpses to sacrifice!
 
-There are no corpses to sacrifice!
+ここには生贄に捧げる死体がない。
 %%%%
- torments the living!
+torments the living!
 
- torments the living!
+は生ける者に苦悶を与えた！
 %%%%
  will bloody one of your weapons with pain.
 
@@ -481,11 +1172,11 @@ There are no corpses to sacrifice!
 %%%%
 Another wave of unholy energy enters you.
 
-Another wave of unholy energy enters you.
+不浄なエネルギーがあなたの中に入った。
 %%%%
-You offer yourself to %s, and are filled with unholy energy.
+You offer yourself to %s, and fill with unholy energy.
 
-You offer yourself to %s, and are filled with unholy energy.
+あなたは%sに自らを差し出し、邪悪な力で満たされた。
 %%%%
 There are no remains here to animate!
 
@@ -497,31 +1188,27 @@ You feel life flooding into your body.
 %%%%
 Your soul already belongs to Yredelemnul.
 
-Your soul already belongs to Yredelemnul.
+あなたの魂はすでにイレデレンヌルのものだ。
 %%%%
-You see nothing there you can enslave the soul of!
+You see nothing there to enslave the soul of!
 
-You see nothing there you can enslave the soul of!
+そこには魂を隷属すべきものがいない！
 %%%%
 's soul is too badly injured.
 
-'s soul is too badly injured.
+の魂はひどく傷ついている。
 %%%%
 You feel more confident with your borrowed prowess.
 
-You feel more confident with your borrowed prowess.
+あなたは借り物の武勇をより確かに感じた。
 %%%%
 You gain the combat prowess of a mighty hero.
 
-You gain the combat prowess of a mighty hero.
+あなたは英雄のような戦闘の才覚を得た。
 %%%%
 Your [hand(s)] get{s} new energy.
 
 Your [hand(s)] get{s} new energy.
-%%%%
-%s
-
-%s
 %%%%
 get
 
@@ -533,15 +1220,11 @@ new energy.
 %%%%
 You can now deal lightning-fast blows.
 
-You can now deal lightning-fast blows.
+あなたは神速の如き一撃を扱うことができる。
 %%%%
- will now grant you divine energy when your 
+ will now grant you divine energy when your reserves of magic are depleted.
 
- will now grant you divine energy when your 
-%%%%
-reserves of magic are depleted.
-
-reserves of magic are depleted.
+ will now grant you divine energy when your reserves of magic are depleted.
 %%%%
 You will briefly lose access to your magic after casting a 
 
@@ -557,11 +1240,11 @@ spell in this manner.
 %%%%
 You renew your call for help.
 
-You renew your call for help.
+あなたは生命保護の延長を求めた。
 %%%%
 You beseech %s to protect your life.
 
-You beseech %s to protect your life.
+あなたは%sに生命を保護してほしいと懇願した。
 %%%%
 You are healed.
 
@@ -569,19 +1252,15 @@ You are healed.
 %%%%
 You cannot banish yourself!
 
-You cannot banish yourself!
+自分自身を追放することはできない！
 %%%%
- will brand one of your weapons with the 
+ will brand one of your weapons with the corruption of the Abyss.
 
- will brand one of your weapons with the 
-%%%%
-corruption of the Abyss.
-
-corruption of the Abyss.
+ will brand one of your weapons with the corruption of the Abyss.
 %%%%
 You stop recalling your allies.
 
-You stop recalling your allies.
+あなたは仲間の招集を停止した。
 %%%%
 Jiyva
 
@@ -593,7 +1272,7 @@ your
 %%%%
 A thick mucus forms on %s.
 
-A thick mucus forms on %s.
+%sの上に厚い粘液が形成された。
 %%%%
 You need a scroll of remove curse to do this.
 
@@ -601,27 +1280,27 @@ You need a scroll of remove curse to do this.
 %%%%
 You extend your astral sight.
 
-You extend your astral sight.
+あなたの天空からの視界は延長された。
 %%%%
 You gain astral sight.
 
-You gain astral sight.
+あなたは天空からの視界を得た。
 %%%%
 You're too exhausted to draw out your power.
 
-You're too exhausted to draw out your power.
+あなたは疲労しすぎており力を解放できない。
 %%%%
 You have no need to draw out power.
 
-You have no need to draw out power.
+あなたは力を解放する必要がない。
 %%%%
 You're too exhausted to power leap.
 
-You're too exhausted to power leap.
+あなたは疲労しすぎており跳躍できない。
 %%%%
 You're too exhausted to unleash your apocalyptic power.
 
-You're too exhausted to unleash your apocalyptic power.
+あなたは疲労しすぎており黙示録の力を解放できない。
 %%%%
 You feel a buildup of energy.
 
@@ -683,29 +1362,29 @@ Cost                          Failure
 
 Cost                          Failure
 %%%%
-  Ability - describe what?           
+Ability - do what?                 Cost                          Failure
 
-  Ability - describe what?           
+能力 - どれを使用しますか？              コスト                    失敗率
 %%%%
-  Ability - do what?                 
+Ability - describe what?           Cost                          Failure
 
-  Ability - do what?                 
+能力 - どの説明を見ますか？              コスト                    失敗率
 %%%%
 ability
 
 ability
 %%%%
-Press '<w>!</w>' or '<w>?</w>' to toggle 
+Press '<w>!</w>' or '<w>?</w>' to toggle between ability selection and description.
 
-Press '<w>!</w>' or '<w>?</w>' to toggle 
+能力の選択画面と説明画面を切り替えるには'<w>!</w>' か '<w>?</w>' を押してください。
 %%%%
 between ability selection and description.
 
 between ability selection and description.
 %%%%
-    Invocations - 
+Invocations -
 
-    Invocations - 
+祈祷関連能力 -
 %%%%
  hostile
 
