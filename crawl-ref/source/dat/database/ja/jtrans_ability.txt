@@ -1,0 +1,713 @@
+%%%%
+unknown failure basis %d!
+
+unknown failure basis %d!
+%%%%
+no special abilities
+
+no special abilities
+%%%%
+, %d %sMP
+
+, %d %sMP
+%%%%
+Permanent 
+
+Permanent 
+%%%%
+, MP
+
+, MP
+%%%%
+, %d MP
+
+, %d MP
+%%%%
+, %d %sHP
+
+, %d %sHP
+%%%%
+Permanent 
+
+Permanent 
+%%%%
+, Hunger
+
+, Hunger
+%%%%
+, Piety
+
+, Piety
+%%%%
+, Breath
+
+, Breath
+%%%%
+, Delay
+
+, Delay
+%%%%
+, Pain
+
+, Pain
+%%%%
+, Exhaustion
+
+, Exhaustion
+%%%%
+, Instant
+
+, Instant
+%%%%
+, Fruit
+
+, Fruit
+%%%%
+, Fruit or Piety
+
+, Fruit or Piety
+%%%%
+, Skill drain
+
+, Skill drain
+%%%%
+, Scroll of remove curse
+
+, Scroll of remove curse
+%%%%
+, %d Gold
+
+, %d Gold
+%%%%
+, Free
+
+, Free
+%%%%
+, Gold
+
+, Gold
+%%%%
+, 
+
+ÅA 
+%%%%
+Sacrifice 
+
+Sacrifice 
+%%%%
+None
+
+None
+%%%%
+extremely large
+
+extremely large
+%%%%
+large
+
+large
+%%%%
+moderate
+
+moderate
+%%%%
+small
+
+small
+%%%%
+This ability costs: 
+
+This ability costs: 
+%%%%
+\nMax MP : 
+
+\nMax MP : 
+%%%%
+\nMP     : 
+
+\nMP     : 
+%%%%
+\nMax HP : 
+
+\nMax HP : 
+%%%%
+\nHP     : 
+
+\nHP     : 
+%%%%
+\nHunger : 
+
+\nHunger : 
+%%%%
+\nPiety  : 
+
+\nPiety  : 
+%%%%
+variable
+
+variable
+%%%%
+\nGold   : 
+
+\nGold   : 
+%%%%
+free
+
+free
+%%%%
+variable
+
+variable
+%%%%
+\nOne scroll of remove curse
+
+\nOne scroll of remove curse
+%%%%
+nothing.
+
+nothing.
+%%%%
+\nYou must catch your breath between uses of this ability.
+
+\nYou must catch your breath between uses of this ability.
+%%%%
+\nIt takes some time before being effective.
+
+\nIt takes some time before being effective.
+%%%%
+\nUsing this ability will hurt you.
+
+\nUsing this ability will hurt you.
+%%%%
+\nIt causes exhaustion, and cannot be used when exhausted.
+
+\nIt causes exhaustion, and cannot be used when exhausted.
+%%%%
+\nIt is instantaneous.
+
+\nIt is instantaneous.
+%%%%
+\nYou can use it even if confused.
+
+\nYou can use it even if confused.
+%%%%
+\nIt will temporarily drain your skills when used.
+
+\nIt will temporarily drain your skills when used.
+%%%%
+\nIf you make this sacrifice, your powers granted by Ru 
+
+\nIf you make this sacrifice, your powers granted by Ru 
+%%%%
+will become stronger in proportion to the value of the 
+
+will become stronger in proportion to the value of the 
+%%%%
+sacrifice, and you may gain new powers as well.\n\n
+
+sacrifice, and you may gain new powers as well.\n\n
+%%%%
+Sacrifices cannot be taken back.\n
+
+Sacrifices cannot be taken back.\n
+%%%%
+\nAfter this sacrifice, you will find that 
+
+\nAfter this sacrifice, you will find that 
+%%%%
+.\n
+
+ÅB\n
+%%%%
+ ability
+
+ ability
+%%%%
+No description found.\n
+
+No description found.\n
+%%%%
+ frowns upon the use of this ability.\n
+
+ frowns upon the use of this ability.\n
+%%%%
+ ability
+
+ ability
+%%%%
+You can't untransform!
+
+You can't untransform!
+%%%%
+Sorry, you're too full to transform right now.
+
+Sorry, you're too full to transform right now.
+%%%%
+You're already flying!
+
+You're already flying!
+%%%%
+Sorry, you're not good enough to have a special ability.
+
+Sorry, you're not good enough to have a special ability.
+%%%%
+Use which ability? (? or * to list) 
+
+Use which ability? (? or * to list) 
+%%%%
+You can't do that.
+
+You can't do that.
+%%%%
+You cannot call out to %s while silenced.
+
+You cannot call out to %s while silenced.
+%%%%
+hunger: %d, max. food_cost: %d, expected hunger: %d
+
+hunger: %d, max. food_cost: %d, expected hunger: %d
+%%%%
+You don't have enough innate magic capacity to sacrifice.
+
+You don't have enough innate magic capacity to sacrifice.
+%%%%
+Really use 
+
+Really use 
+%%%%
+There's no appreciative audience!
+
+There's no appreciative audience!
+%%%%
+You are not zealous enough to affect this audience!
+
+You are not zealous enough to affect this audience!
+%%%%
+You have no mutations to be cured!
+
+You have no mutations to be cured!
+%%%%
+There's already a sanctuary in place on this level.
+
+There's already a sanctuary in place on this level.
+%%%%
+You have nothing to donate!
+
+You have nothing to donate!
+%%%%
+Nothing ails you!
+
+Nothing ails you!
+%%%%
+You aren't in the Abyss!
+
+You aren't in the Abyss!
+%%%%
+You're already here!
+
+You're already here!
+%%%%
+You have nothing more to learn.
+
+You have nothing more to learn.
+%%%%
+No corpses are in range.
+
+No corpses are in range.
+%%%%
+It's too cloudy to do that here.
+
+It's too cloudy to do that here.
+%%%%
+The air is too still for clouds to form.
+
+The air is too still for clouds to form.
+%%%%
+You don't have enough experience to sacrifice.
+
+You don't have enough experience to sacrifice.
+%%%%
+You have no magic power.
+
+You have no magic power.
+%%%%
+%s is still trapped in memory!
+
+%s is still trapped in memory!
+%%%%
+Stopping flight right now would be fatal!
+
+Stopping flight right now would be fatal!
+%%%%
+Turning back right now would cause you to %s!
+
+Turning back right now would cause you to %s!
+%%%%
+burn
+
+burn
+%%%%
+drown
+
+drown
+%%%%
+You fail to use your ability.
+
+You fail to use your ability.
+%%%%
+Weird ability return type
+
+Weird ability return type
+%%%%
+Bad breath type!
+
+Bad breath type!
+%%%%
+You extend your mandibles.
+
+You extend your mandibles.
+%%%%
+You are already prepared to dig.
+
+You are already prepared to dig.
+%%%%
+Are you sure you want to shaft yourself?
+
+Are you sure you want to shaft yourself?
+%%%%
+Aiming: <white>Delayed Fireball</white>
+
+Aiming: <white>Delayed Fireball</white>
+%%%%
+spit at
+
+spit at
+%%%%
+You spit a glob of burning liquid.
+
+You spit a glob of burning liquid.
+%%%%
+You breathe a blast of fire
+
+You breathe a blast of fire
+%%%%
+You exhale a wave of freezing cold.
+
+You exhale a wave of freezing cold.
+%%%%
+You exhale a blast of poison gas.
+
+You exhale a blast of poison gas.
+%%%%
+You breathe a wild blast of lightning!
+
+You breathe a wild blast of lightning!
+%%%%
+You spit a glob of acid.
+
+You spit a glob of acid.
+%%%%
+You breathe a bolt of dispelling energy.
+
+You breathe a bolt of dispelling energy.
+%%%%
+You spit a glob of burning liquid.
+
+You spit a glob of burning liquid.
+%%%%
+You exhale a blast of scalding steam.
+
+You exhale a blast of scalding steam.
+%%%%
+You exhale a blast of noxious fumes.
+
+You exhale a blast of noxious fumes.
+%%%%
+You feel very comfortable in the air.
+
+You feel very comfortable in the air.
+%%%%
+You feel less transparent.
+
+You feel less transparent.
+%%%%
+You feel more buoyant.
+
+You feel more buoyant.
+%%%%
+With a swish of your cloak, you release a cloud of fog.
+
+With a swish of your cloak, you release a cloud of fog.
+%%%%
+You stop singing.
+
+You stop singing.
+%%%%
+You clear your throat and prepare to recite.
+
+You clear your throat and prepare to recite.
+%%%%
+You cannot imprison yourself!
+
+You cannot imprison yourself!
+%%%%
+There is no monster there to imprison!
+
+There is no monster there to imprison!
+%%%%
+You cannot imprison that!
+
+You cannot imprison that!
+%%%%
+You cannot imprison a law-abiding creature!
+
+You cannot imprison a law-abiding creature!
+%%%%
+ will bless one of your weapons.
+
+ will bless one of your weapons.
+%%%%
+There are no corpses to sacrifice!
+
+There are no corpses to sacrifice!
+%%%%
+ torments the living!
+
+ torments the living!
+%%%%
+ will bloody one of your weapons with pain.
+
+ will bloody one of your weapons with pain.
+%%%%
+Another wave of unholy energy enters you.
+
+Another wave of unholy energy enters you.
+%%%%
+You offer yourself to %s, and are filled with unholy energy.
+
+You offer yourself to %s, and are filled with unholy energy.
+%%%%
+There are no remains here to animate!
+
+There are no remains here to animate!
+%%%%
+You feel life flooding into your body.
+
+You feel life flooding into your body.
+%%%%
+Your soul already belongs to Yredelemnul.
+
+Your soul already belongs to Yredelemnul.
+%%%%
+You see nothing there you can enslave the soul of!
+
+You see nothing there you can enslave the soul of!
+%%%%
+'s soul is too badly injured.
+
+'s soul is too badly injured.
+%%%%
+You feel more confident with your borrowed prowess.
+
+You feel more confident with your borrowed prowess.
+%%%%
+You gain the combat prowess of a mighty hero.
+
+You gain the combat prowess of a mighty hero.
+%%%%
+Your [hand(s)] get{s} new energy.
+
+Your [hand(s)] get{s} new energy.
+%%%%
+%s
+
+%s
+%%%%
+get
+
+get
+%%%%
+new energy.
+
+new energy.
+%%%%
+You can now deal lightning-fast blows.
+
+You can now deal lightning-fast blows.
+%%%%
+ will now grant you divine energy when your 
+
+ will now grant you divine energy when your 
+%%%%
+reserves of magic are depleted.
+
+reserves of magic are depleted.
+%%%%
+You will briefly lose access to your magic after casting a 
+
+You will briefly lose access to your magic after casting a 
+%%%%
+spell in this manner.
+
+spell in this manner.
+%%%%
+ stops granting you divine energy.
+
+ stops granting you divine energy.
+%%%%
+You renew your call for help.
+
+You renew your call for help.
+%%%%
+You beseech %s to protect your life.
+
+You beseech %s to protect your life.
+%%%%
+You are healed.
+
+You are healed.
+%%%%
+You cannot banish yourself!
+
+You cannot banish yourself!
+%%%%
+ will brand one of your weapons with the 
+
+ will brand one of your weapons with the 
+%%%%
+corruption of the Abyss.
+
+corruption of the Abyss.
+%%%%
+You stop recalling your allies.
+
+You stop recalling your allies.
+%%%%
+Jiyva
+
+Jiyva
+%%%%
+your 
+
+your 
+%%%%
+A thick mucus forms on %s.
+
+A thick mucus forms on %s.
+%%%%
+You need a scroll of remove curse to do this.
+
+You need a scroll of remove curse to do this.
+%%%%
+You extend your astral sight.
+
+You extend your astral sight.
+%%%%
+You gain astral sight.
+
+You gain astral sight.
+%%%%
+You're too exhausted to draw out your power.
+
+You're too exhausted to draw out your power.
+%%%%
+You have no need to draw out power.
+
+You have no need to draw out power.
+%%%%
+You're too exhausted to power leap.
+
+You're too exhausted to power leap.
+%%%%
+You're too exhausted to unleash your apocalyptic power.
+
+You're too exhausted to unleash your apocalyptic power.
+%%%%
+You feel a buildup of energy.
+
+You feel a buildup of energy.
+%%%%
+ will supercharge a wand or rod.
+
+ will supercharge a wand or rod.
+%%%%
+Supercharge what?
+
+Supercharge what?
+%%%%
+You cannot supercharge that!
+
+You cannot supercharge that!
+%%%%
+Do you wish to have 
+
+Do you wish to have 
+%%%%
+ supercharged?
+
+ supercharged?
+%%%%
+supercharged by Pakellas
+
+supercharged by Pakellas
+%%%%
+Your %s glows brightly!
+
+Your %s glows brightly!
+%%%%
+ booms: Use this gift wisely!
+
+ booms: Use this gift wisely!
+%%%%
+Really renounce your faith, foregoing its fabulous benefits?
+
+Really renounce your faith, foregoing its fabulous benefits?
+%%%%
+Are you sure you won't change your mind later?
+
+Are you sure you won't change your mind later?
+%%%%
+Sorry, you can't do that.
+
+Sorry, you can't do that.
+%%%%
+invalid ability
+
+invalid ability
+%%%%
+Cost: mp=%d; hp=%d; food=%d; piety=%d
+
+Cost: mp=%d; hp=%d; food=%d; piety=%d
+%%%%
+Cost                          Failure
+
+Cost                          Failure
+%%%%
+  Ability - describe what?           
+
+  Ability - describe what?           
+%%%%
+  Ability - do what?                 
+
+  Ability - do what?                 
+%%%%
+ability
+
+ability
+%%%%
+Press '<w>!</w>' or '<w>?</w>' to toggle 
+
+Press '<w>!</w>' or '<w>?</w>' to toggle 
+%%%%
+between ability selection and description.
+
+between ability selection and description.
+%%%%
+    Invocations - 
+
+    Invocations - 
+%%%%
+ hostile
+
+ hostile
+%%%%
