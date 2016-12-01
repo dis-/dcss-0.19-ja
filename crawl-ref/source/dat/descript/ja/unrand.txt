@@ -1,396 +1,649 @@
 %%%%
 Singing Sword
 
-この剣は所有者に歌いかけることを何より愛す。……所有者の望むと望まざるに関らず。
+#An enchanted blade which loves nothing more than to sing to its owner, whether
+#they want it to or not.
+%%%%
+Sulking Sword
+
+#<Singing Sword>
+%%%%
+Screaming Sword
+
+#<Singing Sword>
 %%%%
 Wrath of Trog
 
-この斧は旧き神トログが失くしたもので、彼のお気に入りの品だった。
-これは振るう者全てに血に飢えた狂戦士の怒りを誘発する。
+#A bloodstained axe that was the favourite weapon of the old god Trog, before it
+#was lost. It induces a bloodthirsty berserker rage in warriors who use it in
+#battle.
 %%%%
-Mace of Variability
+mace of Variability
 
-この武器はどうも当てにならない。
+#A weapon with a peculiar reputation — said to be at times peerless in quality,
+#and other times virtually useless. No one knows exactly who would have made
+#such a weapon, or why, but Xom is probably to blame somehow.
 %%%%
-Glaive of Prune
+glaive of Prune
 
-この武器は狂った神の創造物で、所有者をプルーンに変える呪いがかかっている。
-幸いなことに呪いはゆっくり進行するので、
-短期間使うだけであれば皮膚が少し紫色になり、
-皺が寄ってくるという以上の実害はない。
+#A purple glaive that was created by a mad god, and carries a curse which
+#transforms anyone wielding it into a prune. Fortunately, the curse works very
+#slowly, and one can use it briefly with no consequences worse than slightly
+#purple skin and a few wrinkles.
 %%%%
-Sword of Power
+sword of Power
 
-この武器は力ある者には激しく、力なき者には穏やかに応える。
+#A mighty sword which rewards the powerful with power and the meek with
+#weakness.
 %%%%
-Staff of Olgreb
+staff of Olgreb
 
-これは力ある魔術師オルグレブがこのダンジョンのどこかで命を落とすまで、
-彼によって振るわれた魔法の武器だ。これは手にした者の毒の魔術を使う力を強化し、
-発動することで使用できる魔法の力を帯びている。
-話によるとオルグレブは一般に知られている毒に対する免疫のある生物に対しても幾らかの限定的な効果を及ぼす珍しい毒物の研究をしていたらしい。
-その明白な根拠として、オルグレブは杖にそれ自体が持つ毒さえも防ぐ、
-完全な護りを付与している。
+#A staff which was once wielded by the mighty wizard Olgreb. It increases the
+#power of its wielder's poison magic, and can be evoked to activate its own
+#venomous spells. Its touch may poison even resistant creatures, and it grants
+#protection from all venoms while wielded.
 %%%%
-Staff of Wucad Mu
+staff of Wucad Mu
 
-この杖は発動することで多量の魔力を回復することができる。しかし、
-使用することで使用者の精神を傷つける危険性をも孕んでいる。
-この能力は使用者の発動スキルに依存している。
+#A crystal staff overflowing with magical energies. It can be evoked to restore
+#large amounts of magical energy, but with the risk of damaging the user's mind.
+#Its power depends on the wielder's Evocations skill.
 %%%%
-Scythe of Curses
+Vampire's Tooth
 
-この武器には恐ろしく非常に腹立たしい呪いがかかっている。
+#An ivory-like dagger that looks like it could have been crafted from the tooth
+#of some enormous predatory creature. It is lethally vampiric, and restores a
+#greater portion of life to its user than other vampiric weapons.
 %%%%
-Sceptre of Torment
+scythe of Curses
 
-この忌まわしい武器は、地獄の拷問具だ。
+#A scythe surrounded by an ominous aura of dread. It carries a terrible and
+#highly irritating curse, which it busily inflicts on both the wielder and their
+#enemies.
 %%%%
-Sword of Cerebov
+sceptre of Torment
 
-薄気味の悪い炎がこの捩れた刃を包んでいる。
-この悪魔のような威力は攻撃を受けた者の火の耐性をいくらか焼却する。
+#An accursed golden sceptre, created by some unknown hellish power. It
+#frequently causes agonising pain in all those unfortunate enough to gaze upon
+#it.
+%%%%
+sword of Zonguldrok
+
+#A blade imbued with the essence of a legendary necromancer. Those slain in its
+#presence are reanimated by its power and forced to fight on.
+%%%%
+sword of Cerebov
+
+#A twisted blade, covered in eerie flames. Its demonic power burns away some of
+#the fire resistance of those it strikes.
+%%%%
+staff of Dispater
+
+#A legendary staff, granting the power to unleash damnation — although not
+#without draining the wielder's vitality in the process.
+%%%%
+sceptre of Asmodeus
+
+#A bright ruby sceptre, carrying some of the powers of the arch-fiend Asmodeus.
+#Evoking it can summon fiery demons from their infernal home to do your bidding,
+#although they will not remain enslaved for long.
 %%%%
 faerie dragon scales
 
-フェアリードラゴンは斑紋ドラゴンの近縁種であるとされた生物だ。実に不幸なことに、
-彼らの鮮やかな体色は外敵を呼び寄せてしまい、絶滅の原因になってしまった。
-彼らは既に地上から姿を消してしまっており、
-この貴重な遺品は彼らがかつてこの世に息づいていたことの最後の証だ。
+#An enchanted suit of armour created from the scales of a rare breed of dragon,
+#now thought to be extinct. This prized relic is now one of the last proofs that
+#the vividly coloured faerie dragons ever existed.
 %%%%
 demon blade "Bloodbane"
 
-これは残忍な狂戦士の血塗られた痕跡を幾らか孕んでいる。
+#A blade forged in Hell by the sacrifice of countless tortured souls. It
+#inflicts the rage and suffering of those souls upon its wielder.
 %%%%
 scimitar of Flaming Death
 
-煙たい！
+#A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,
+#covering opponents in magical flame.
 %%%%
-mace of Brilliance
+# TAG_MAJOR_VERSION == 34
+eveningstar "Brilliance"
 
-このメイスはダンジョンを明るく照らすが、
-あなたの存在を敵に察知されやすくするだろう。
-放たれる輝きはアンデッドの天敵であり、姿を隠した者たちの策謀を打ち砕く。
+#A brightly shining eveningstar. It illuminates the dungeon's recesses, but its
+#halo may alert enemies to your presence. Its light is hated by the undead, and
+#reveals the machinations of those who would prefer to stay invisible.
+%%%%
+demon blade "Leech"
+
+#An unerringly vampiric blade which gorges itself on drained life force every
+#time it strikes.
 %%%%
 dagger of Chilly Death
 
-サファイアでできているダガーだ。
+#A dagger made of one huge shard of sapphire. It covers opponents in ice,
+#slowing down their movement somewhat.
+%%%%
+dagger "Morg"
+
+#An ugly rusty dagger. Many years ago it was the property of a powerful mage
+#called Boris. He got lost in the Dungeon while seeking the Orb.
 %%%%
 scythe "Finisher"
 
-戦闘を目的に特別に造られた、長く鋭い大鎌だ。
+#A long and sharp scythe, specially modified to be quickly swung in combat.
 %%%%
 sling "Punk"
 
-奇妙な青い皮で作られたスリングだ。
+#A sling made of weird green leather, oozing corrosive slime. Originally the
+#weapon of a notorious mischief-maker and general scamp, it's since fallen into
+#less savoury hands.
+%%%%
+bow of Krishna "Sharnga"
+
+#A wonderful golden longbow that once belonged to a god of distant lands. It can
+#fire as fast as thought and hurl divine arrows of terrible power — though,
+#sadly, none seem to be available here.
 %%%%
 giant club "Skullcrusher"
 
-この素晴らしい棍棒はオーガたちを大喜びさせる。 -それはもう乱痴気騒ぎか、虐殺か、
-その両方かというほどに。
+#A massive enchanted cudgel that augments the already considerable strength of
+#anyone mighty enough to wield it.
 %%%%
 glaive of the Guard
 
-この武器はかつて、王の宝物の番人であるガー・ドフのものだった。伝説によれば、
-彼はダンジョンのどこかで行方知れずになったという。
+#A glaive commissioned several years ago by a wealthy queen fearful for the
+#safety of her vast treasury. No foe, the smith promised, could defeat a guard
+#wielding such a weapon!
+#
+#It was stolen a few months later, along with the rest of the queen's treasury;
+#the guard, it transpired, had been caught napping. Still, it should serve more
+#than adequately in the hands of a waking user.
 %%%%
 sword of Jihad
 
-一塊の水晶から作られたロングソードだ。伝説に曰く、
-この剣は輝けるものが彼の信徒に贈ったものだという。
-これは装備するものとその生命ある従者を血に飢えた怒りを引き起こすことで悪名高い。
+#A sword made of one huge piece of crystal. Legend says it was the Shining One's
+#gift to a worshipper. This blade is notorious for inducing bloodthirsty rage in
+#both the wielder and all of his or her mortal followers.
 %%%%
-crossbow "Hellfire"
+arbalest "Damnation"
 
-地獄の炎で鍛えられた燃え上がるクロスボウだ。これから放たれた矢は名前の通り、
-弱い地獄の業火に包まれる。
+#An unholy crossbow, forged in the fires of Gehenna. It transforms the bolts it
+#fires with the raw power of its namesake, irresistible by any mortal armour.
 %%%%
+# TAG_MINOR_VERSION == 34
 sword of the Doom Knight
 
-金剛のグレートソードだ。
+#An adamantine great sword. Its first wielder was a worshipper of Yredelemnul
+#who eschewed the use of magic in combat, preferring to destroy her enemies with
+#brute force. Unfortunately for her, not all of her opponents shared her
+#limitations.
 %%%%
 morningstar "Eos"
 
-この武器は薔薇色の指をもつ暁の女神の名を冠している。
+#A jewelled morningstar, glowing brightly with the light of the dawn. It
+#illuminates the dungeon's recesses, revealing the machinations of those who
+#would prefer to stay invisible.
 %%%%
+# TAG_MAJOR_VERSION == 34
 spear of the Botono
 
-真に邪悪かつ有害な代物である。
-この武器を身に付ける愚を犯すものは呪術を詠唱するための力を得る。
+#A dark and malign artefact. It increases the potency of hexes cast by anyone
+#unwise enough to risk wielding it.
+%%%%
+trident of the Octopus King
+
+#A trident stolen many years ago from the Octopus King's garden. Luckily, he
+#seems to be in no hurry to get it back.
 %%%%
 mithril axe "Arga"
 
-ミスリル製の美しい斧だ。おそらくドワーフの英雄のいずれかが落としたものだろう。
+#A beautiful mithril axe, probably lost by some dwarven hero.
+%%%%
+Elemental Staff
+
+#A powerful staff which used to belong to the leader of the Guild of Five
+#Elements. In addition to the protection it provides, those skilled in
+#Evocations may discharge powerful blasts of elemental energy when striking with
+#it.
+%%%%
+heavy crossbow "Sniper"
+
+#A huge crossbow made of some black material. It is highly damaging, but
+#extremely cumbersome to load. It is enchanted to never miss its target.
 %%%%
 longbow "Piercer"
 
-他に類を見ない大きさの金属製のロングボウだ。
+#An exceptionally large metal longbow.
 %%%%
+# TAG_MAJOR_VERSION == 34
 blowgun of the Assassin
 
-この武器は簡単に隠し持てるよう作られているが、依然として強力な効果を持っている。
+#This blowgun seems to guide the needle to seek the most lethal point to hit
+#the target, packing a nasty punch.
 %%%%
 lance "Wyrmbane"
 
-強力なドラゴンに致命打を与えるたびに力を増していく魔力を持ったランスだ。
-強力な力を帯びるほど、この槍にふさわしい相手を見つけることが難しくなっていく。
+#An enchanted lance deadly to all dragonkind. It grows more powerful every time
+#it inflicts a killing blow on a strong dragon. The more powerful it grows, the
+#harder it will be to find a worthy opponent.
+%%%%
+Spriggan's Knife
+
+#A dainty little knife which was made by Spriggans, or for Spriggans, or
+#possibly from Spriggans. Anyway, it's in some way associated with those fey
+#folk.
 %%%%
 plutonium sword
 
-妙な輝く金属から作られた大剣だ。
-あなたはこの剣の放射エネルギーが自分にもう一つの頭を生やしはしないかと考えるだろう。
+#A triple sword made of weird glowing metal. It irradiates those it strikes,
+#causing a range of unpredictable effects — if they survive the impact of the
+#blade itself, that is.
 %%%%
 great mace "Undeadhunter"
 
-伝説によると遥か昔、リッチの王が精神のない自動人形ではなく、
-心のあるしもべを造り出す実験をした。しもべの忠誠心を確かなものにするために、
-彼はアンデッドの体を結合させておく魔術を中和することができ、
-甚大なダメージを与える魔法を吹き込んだ多くの武器を作り出した。
-
-そのリッチははるか昔に死を迎えたにもかかわらず、
-アンデッドに死を振りまく彼の武器はとても有名であったといわれている。しかし、
-このメイスはその最後の一振りであろう。
+#A weapon imbued with magic to disrupt and destroy the forces binding undead
+#creatures together. Legends say that, long ago, a lich lord created many
+#such weapons to ensure the loyalty of his undead servants. Sadly, this mace
+#might be the last one left.
 %%%%
+whip "Snakebite"
+
+#A double-ended whip made from the cured hides of black mambas, and enchanted
+#with toxins ranging from ordinary venoms to asphyxiating curare.
+%%%%
+# TAG_MAJOR_VERSION == 34
 knife of Accuracy
 
-この武器はほとんど的を外さないほどに正確だ。
+#It is almost unerringly accurate.
 %%%%
+# TAG_MAJOR_VERSION == 34
 Lehudib's crystal spear
 
-おそらくこの遺物はある著名な呪文の開発のきっかけになったものだろう。
-あるいはその逆であるかもしれない。
+#Presumably this relic led to the invention of the famous spell, or maybe the
+#other way around.
 %%%%
 captain's cutlass
 
-この悪名高い武器は、無辜の民を虐殺するような下劣な海賊の船長の持ち物であった。
-彼の最後は、クラーケンに船を乗組員ごと飲み込まれるというものであった。
-このカットラスは永遠に失われたのだと思われていたが、
-今まさにあなたの手の中にそうでなかったことの証明がある。
+#An infamous weapon, once used by a vile pirate captain to slaughter countless
+#innocents. He finally met his destiny when a kraken swallowed his ship, and the
+#cutlass was thought to be lost with him. It has the capability to suddenly
+#relieve opponents of their weapons, dealing extra damage in the process.
 %%%%
 storm bow
 
-この弓は暗い雨雲の色をしており、オゾンの臭いを放っている。
+#A longbow with the colour of dark rain clouds.
+#{{
+#    if you.can_smell() then
+#        return "It smells like a storm just past, or one about to begin."
+#    end
+#}}
 %%%%
 large shield of Ignorance
 
-広い心というものは扉が開け放たれ、守備されていない要塞のようなものだ。
+#A shield unearthed from the remains of a ruined city. It bears an inscription
+#written in an ancient language. Scholars and wise men laboured for countless
+#hours to decipher it, and in time, a translation was finally settled on:
+#
+#"With a shield like this, who needs to think?"
 %%%%
 robe of Augmentation
 
-最上級の絹で作られたローブだ。
+#A silk robe, woven with enchantments to enhance the wearer's physical and
+#mental abilities.
 %%%%
 cloak of the Thief
 
-これは着用者を盗みの技巧に於いて卓越した存在とする。これは迅速な逃走を助ける、
-濃密な煙幕を放つことを可能にする。
+#A pitch-black cloak which allows its wearer to excel in the arts of thievery,
+#and can be evoked to release thick clouds of smoke for a hasty escape.
 %%%%
+# TAG_MAJOR_VERSION == 34
 large shield "Bullseye"
 
-もし敵の攻撃でお困りでしたらどうぞ。
+#Just in case you had trouble getting hit.
 %%%%
 crown of Dyrovepreva
 
-目が眩むほど多くの宝石に埋め尽された、くすんだ青銅製の大きな王冠だ。
+#A large crown of dull bronze, set with a dazzling array of gemstones.
 %%%%
 hat of the Bear Spirit
 
-これはかつてアックタという名の力あるオーガの精霊使いの持ち物であった。
-この毛皮の帽子には、非常に強大な力を持った熊の精霊が宿っている。
+#A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of
+#an especially mighty bear.
 %%%%
 robe of Misfortune
 
-毛皮と絹のたなびく豪華絢爛なローブだ。
+#A splendid flowing robe of fur and silk.
 %%%%
+# TAG_MAJOR_VERSION == 34
 cloak of Flash
 
-振動しているクロークだ。
+#A cloak that twitches and jerks without any intervention.
 %%%%
 boots of the Assassin
 
-暗殺者ギルドによって特別にあつらえられた柔らかなブーツだ。
-これらは着用者が獲物を見つけることを容易にし、
-不注意な敵に攻撃する際に弱点を突きやすくする。
+#A pair of soft boots, specially designed by the Assassin's Guild, that allow
+#the wearer to sense potential victims nearby. They also allow the wearer to
+#easily find vulnerabilities when attacking unaware opponents, allowing
+#effective stabbing attacks with any weapon.
 %%%%
 Lear's hauberk
 
-着用者の全身を覆う、精巧に作られた鎖かたびらだ。鎖頭巾に脛当て、
-鎖手甲も付属している。
+#A well-made golden hauberk that covers all of its wearer's body parts. It
+#includes a chainmail coif, chausses and maille gauntlets.
 %%%%
 skin of Zhor
 
-ある奇妙な動物の悪臭を放つ皮だ。
+#The {{
+#    if you.can_smell() then
+#        return "smelly "
+#    end
+#}}skin of some strange animal, native to cold and distant lands.
 %%%%
 salamander hide armour
 
-サラマンダーの皮でできたレザーアーマーだ。
+#A leather armour made of a salamander's skin.
 %%%%
 gauntlets of War
 
-この分厚い鉄製の手甲はオカワルが卓越した戦士に褒美として与えたものだ。
-あなたはこれにふさわしい者だろうか？
+#A pair of thick steel gauntlets. They were Okawaru's reward for a mighty
+#warlord. The owner is destined to die in battle, but what a death it will be!
 %%%%
 shield of Resistance
 
-青銅製の盾だ。
+#A bronze shield, looking almost exactly like a tortoise's shell. It was built
+#by the adherents of an obscure minor faith, who imbued it with the power of
+#their god. As the god is said to, this shield protects against sword and sling,
+#frost and flame.
 %%%%
 robe of Folly
 
-冴えない灰色のローブだ。
-これは着用者に計り知れない力と知性を与える魔術が込められている。
+#A dull grey robe. It is enchanted to provide its wearer with immeasurable power
+#and wisdom, but...
 %%%%
 Maxwell's patent armour
 
-奇妙な外見の鎧だ。
+#A suit of armour created by the famous inventor Maxwell, providing unparalleled
+#protective qualities at a very affordable price. His unorthodox materials left
+#it with certain shortcomings, but he's yet to have anyone come back for a
+#refund.
 %%%%
 mask of the Dragon
 
-堅いが柔軟な皮でできた一風変わった青い兜だ。
-これをつけたものはまるでドラゴンのような容貌になる。
+#A strange blue mask made of hard, flexible leather, resembling a dragon's
+#visage.
+%%%%
+robe of Night
+
+#A long black robe made of strange glossy material. It shrouds its wearer in
+#darkness, reducing the range of vision. According to legend, it was the gift
+#of Ratri the Goddess of the Night to one of her followers.
 %%%%
 armour of the Dragon King
 
-遥か昔、
-強力なゴールドドラゴンがその地の全ての龍族を束ねる統治者の座を奪い取った。
-しかし、彼の治世は長くは続かず、あるつまらない男の手によって終わってしまった。
-この鎧はその男の手によって作られたものだ。
+#A suit of armour created from the enchanted scales of a once-mighty king of
+#dragons. In his time, titans and lesser dragons struggled with him in vain —
+#but as with all things, even he was eventually cast down and undone. Of his
+#life and deeds, this is all that remains.
 %%%%
 hat of the Alchemist
 
-汚らしい帽子だ。この帽子には多くの不可解な爆発に耐え抜いてきた痕跡が見られ、
-錬金術の実験に伴う危険から頭を保護する能力を有していることを示唆している。
-この帽子によってもたらされる保護から考えると、
-いくつかの古い傷は錬金術の実験を推敲していく際に不可避についてしまったものなのだろう。
+#A dirty hat. It bears signs of surviving many weird explosions, which suggests
+#it may have means of protecting the head inside from the risks involved with
+#alchemy experiments.
 %%%%
 fencer's gloves
 
-白い絹で作られた手袋だ。
+#A pair of gloves made of white silk. They have a natural affinity with the
+#riposte, allowing their wielder to retaliate against some missed attacks with
+#any weapon, or to retaliate against all attacks when using a long blade.
 %%%%
 cloak of Starlight
 
-純粋な光で編まれた、仄明るい光を放つクロークだ。
+#A phosphorescent cloak, woven of pure light beams.
 %%%%
 ratskin cloak
 
-これは魔法の機織り機と、それを使う技術を持ったある女魔術師が大変に手間をかけて、
-主にオレンジネズミの皮を大量に使って織られたものだ。
-着用するには少し不恰好で馬鹿げた見た目だが、
-あらゆるネズミによる危害からの素晴らしい保護をもたらす。
+#A cloak stitched from the hides of hundreds of hell rats, by an enchantress
+#with a magic loom and too much time on her hands. It provides excellent
+#protection from rats of all kinds.
+%%%%
+shield of the Gong
+
+#A heavy bronze gong that can be worn as a shield. According to some mystics,
+#beating on such a gong can grant the wearer spiritual protection.
 %%%%
 amulet of the Air
 
-この青空の色をした護符は強力な風の魔術によって、着用者に様々な保護をもたらす。
-しかし、着用者の動きを安定させる手段が欠けているようだ。
+#A sky-blue amulet. It must have been given its many protective properties by a
+#powerful air mage, although it seems the one thing they lacked was a steady
+#hand.
 %%%%
+ring of Shadows
+
+#A black ring that can make its wearer one with the shadows. It creates a dark
+#umbra that surrounds the wearer and increases stealth greatly, and reduces the
+#accuracy of all those within it.
+%%%%
+# TAG_MAJOR_VERSION == 34
 amulet of Cekugob
 
-なんの変哲もない紐で括られたおかしな見た目の水晶の欠片だ。
-これには様々な能力が秘められている。
+#A strange-looking piece of crystal on an ordinary-looking string, with an odd
+#selection of powers.
 %%%%
 amulet of the Four Winds
 
-この透き通った翡翠の首飾りは着用者に敵対的な魔術に対する素晴らしい耐性を授ける。
+#A pendant made of purest jade. It grants its wearer an immense mystic strength,
+#sufficient to shrug off all but the most potent of hostile enchantments.
 %%%%
 necklace of Bloodlust
 
-あなたはこの人や獣の牙、
-そして背骨の欠片のように見える何かで作られた血に染まった首飾りを、
-どのような生粋の野蛮人が身に着けていたのか疑問に思うだろう。
+#A necklace made of bloodstained human and animal teeth, and something that
+#appears to be a piece of spine.
 %%%%
 ring of Shaolin
 
-簡素な翡翠の指輪だ。これは装着者の自らの身体への神秘的な理解を深め、
-軽功の妙技を会得することを可能とする。
+#An unadorned jade ring that gives its wearer an uncanny knowledge of one's
+#body, allowing for impressive feats of dexterity.
 %%%%
 ring of Robustness
 
-簡素な鉄の指輪だ。
+#A plain steel ring that causes its wearer to become substantially more
+#resilient.
 %%%%
 ring of the Mage
 
-魔力の込められたサファイアがはめ込まれた指輪だ。
-これは着用者の呪文詠唱を手助けする。
+#An enchanted sapphire, inset into a ring. It aids the spellcasting of its
+#wearer.
 %%%%
 brooch of Shielding
 
-旧き良き時代の冒険者達は皆このような便利な道具を持ち歩いていた。それに馬も。
+#A brooch with an intricate inlaid design, providing a range of magical
+#protections. Back in the good old days, every adventurer had one of these handy
+#devices. That, and a pony.
 %%%%
 robe of Clouds
 
-まるで雲のように軽い素材で作られたローブだ。
+#A robe of a material as flimsy and insubstantial as the clouds.
+%%%%
+hat of Pondering
+
+#The favourite hat of the slug wizard Gastronok, stained with reddish slime and
+#enchanted to aid in his arcane pondering. It has been specially enchanted to
+#protect against the effects of salt.
 %%%%
 obsidian axe
 
-この斧にはパンデモニウムの主による呪いがかけられており、
-あなたのような不用心な冒険者が振るうことによってこの世に悪魔が解き放たれるようになっている。
-用心せよ！この斧は手にする者を支配する術を持っている。
+#An axe with a powerful curse placed on it by one of the lords of Pandemonium,
+#so that unsuspecting adventurers would unleash demons into this world. Beware,
+#for it has ways of taking its wielder under its command...
 %%%%
 lightning scales
 
-これはナーガの具装に加工された何かの鱗で、
-かすかに電気のパチパチと爆ぜる音がしている。
-これには着用者に人間とほぼ同じ速度で這うことができるように魔術が施されている。
+#A set of scales fashioned into armour for a naga's lower body. Faintly
+#crackling with electricity, they have been enchanted to allow their wearer to
+#slither at almost a human's pace.
 %%%%
 Black Knight's horse barding
 
-これは黒騎士が恐怖政治を行なっていた頃、彼の愛馬のためにしつらえられたものだ。
-それは奇妙な黒鉄だけでなく、
-なんと黒いダイヤモンドの一枚板をも使って作られており、真っ黒な見た目をしている。
-当然ながら、このような金属や鉱石の重みは馬の速度を殺してしまう。しかし、
-これは単なる打撃への耐性のみならず、
-素材に使われているダイヤモンドは着用者をアンデッドに近づける効果をもたらす。
+#A heavy barding made from pitch-black steel and inlaid with plates of black
+#diamond. It once protected the steed of the Black Knight during his reign of
+#terror. Those who wear it become partially undead, gaining some of the benefits
+#without the unfortunate downsides, although the great weight of metal and stone
+#slows the wearer somewhat.
 %%%%
-ring of Vitality
+amulet of Vitality
 
-この名のある指輪は装着者の生命力を大きく増進する。
+#A jewelled amulet famed for its powers of resilience and recuperation.
 %%%%
 autumn katana
 
-この東洋の剣は剣技の達人の為に作られたものだ。
+#An exotic sword, enchanted to provide both mental and physical strength to the
+#wielder.
 %%%%
 shillelagh "Devastator"
 
-この棍棒には鉛よりも重い何かが詰められていることは想像に難くない。
+#A wooden cudgel, loaded with more than just lead.
 %%%%
 dragonskin cloak
 
-この乳白色のクロークはあらゆるドラゴンの体色と同じ色に煌めいている。
-これは着用者にあらゆる属性の攻撃からの保護をもたらすが、今ひとつ当てにならない。
+#An opalescent cloak gleaming with the colours of all kinds of dragons. It
+#protects its wearer from most elemental attacks, although somewhat unreliably.
 %%%%
 ring of the Octopus King
 
-「歌を愛する人魚姫
- 蛸の王は一目で惚れた
- 焦がれる想いに身をくねらせて
- 想いを遂げんとあの手やこの手
- 蛸の指輪は多すぎて、人魚姫には受けきらぬ」
+#One of the eight rings once worn by the Octopus King and now scattered across
+#the land. Each has its own unique enchantment.
 %%%%
 Axe of Woe
 
-この斧を手にすると、あなたの精神はあなたの思い通りにならない。
-あなたの身体は限界を超えた力を発揮し、
-あなたの一挙手一投足はマクレブの意のままとなる。
+#As you hold this axe your mind does not feel fully your own. Your body begins
+#to exhibit strength far beyond its capabilities, and your movements become
+#guided by Makhleb.
 %%%%
 moon troll leather armour
 
-この革鎧は噂によれば、
-今は絶滅してしまったトロルの一種の皮に魔力を込めることで作られたものだという。
-この革鎧が本当に伝説の不可視の風の怪物の残骸であるのか、
-単に神秘性を加えるために名前を拝借しただけのものなのかはちょっとした謎である。
-着用者の魔力を時に代償とした急速な再生能力は、
-そうであっても議論の余地のないものであろう。
+#A suit of armour rumoured to have been created by enchanting the hide of a
+#now-extinct species of troll. Whether the name rings true or is merely
+#appropriated to add mystique is something of a mystery. The armour's innate
+#powers of regeneration and magical protection, however, are hard to dispute.
 %%%%
 macabre finger necklace
 
-このぶら下がった指に指輪をはめると良く映えそうですね。
+#An ugly dangling finger on a string. It would look better with a ring on it.
 %%%%
+# TAG_MAJOR_VERSION == 34
 boots of the spider
 
-アラクネに求婚しようとするものによって作られた奇抜な一足のブーツだ。
+#A novel pair of boots invented by a suitor of Arachne.
+%%%%
+dark maul
+
+#A large, iron-shod maul specialised for dealing massively powerful blows. Such
+#power comes at a price: the maul's head is so heavy it takes a great length of
+#time to lift it up for another swing.
 %%%%
 hat of the High Council
 
-古代の魔法大戦の遺物だ。数世紀後、
-これには今もかつて日々の魔法の訓練の基礎とされていた、
-残存する呪術と魔力の効果に満ちている。しかし、この帽子の力を制御できた魔術師は、
-これが魔法の力を強化するものであることを知るだろう。
+#A relic of some ancient wizarding war. Centuries later, it still crackles with
+#effects from the residual hexes and magical energies it was once subjected to
+#on a daily basis; spellcasters able to get a handle on its power, however, will
+#find it enhances the power of their spells.
+%%%%
+arc blade
+
+#A blade somehow crafted from pure electricity. Striking an enemy with it
+#occasionally unleashes a static discharge.
+%%%%
+demon whip "Spellbinder"
+
+#A weapon said to have once been used to keep unruly imprisoned wizards in line;
+#it violently disrupts their ability to use magic, inflicting wild and
+#unpredictable magical effects on those it strikes.
+%%%%
+lajatang of Order
+
+#A silver-bladed lajatang, once bestowed upon a favoured worshipper of Zin. It
+#became the most prized weapon of the many priests of Zin. After their order was
+#destroyed, it fell into disuse and vanished from history.
+%%%%
+great mace "Firestarter"
+
+#A huge mace imbued with potent fire magic. It fills those it strikes with
+#inner flame, and offers protection against the resulting devastation as well
+#as immunity to clouds of flame.
+%%%%
+orange crystal plate armour
+
+#A suit of armour carved from transparent orange crystal. It provides remarkable
+#protection for both mind and body. The wearer can even channel psychic energies
+#through the crystal itself, enhancing their magical abilities. However, it's
+#rather heavy...
+%%%%
+Majin-Bo
+
+#A staff inhabited by a mighty demon, tricked and trapped in this form long
+#ago. To survive, she now offers tremendous arcane power at a small price: a
+#tiny portion of the caster’s life essence, taken alongside the magic used every
+#time its wielder casts a spell.
+%%%%
+pair of quick blades "Gyre" and "Gimble"
+
+#Two quick blades joined by a chain. Swinging one compels the wielder to swing
+#the other, as if they have minds of their own.
+%%%%
+Maxwell's etheric cage
+
+#A fine mesh cage designed to capture magical energy. Experimental notes suggest
+#that research was abandoned when the cage began to capture magical
+#contamination almost as effectively. Anyone reckless enough to place it on
+#their head would find their magic regeneration dramatically increased, at the
+#cost of multiplying any magical contamination received.
+%%%%
+# TAG_MAJOR_VERSION == 34
+crown of Eternal Torment
+
+#A gold crown set with jet-black gems. It permanently afflicts its wearer with
+#agonising pain, substantially reducing their resilience but rendering them
+#immune to further torments.
+%%%%
+robe of Vines
+
+#A robe woven of living vines. The vines form a symbiotic relationship with
+#their wearer, greatly increasing their regeneration, but preventing them from
+#being healed by potions and wands.
+%%%%
+Kryia's mail coat
+
+#A coat of armour said to have been forged for Queen Kryia in her old age. She
+#continued to insist on leading her armies from the front even into her dotage,
+#and as her aging body failed her, this coat helped to enhance the healing
+#draughts that kept her alive.
+#
+#{{
+#    if you.race() == "Deep Dwarf" then
+#        return "Sadly, it cannot assist deep dwarves' healing."
+#    else
+#        return "The wearer of this garment will have significantly increased healing from devices."
+#    end
+#}}
+%%%%
+frozen axe "Frostbite"
+
+#A massive axe that looks like it was carved from a glacier, or possibly calved
+#from one. It leaves ice crystals in its wake as it swings through the air, and
+#grants its wielder immunity to freezing vapours.
+%%%%
+armour of Talos
+
+#A huge and weighty suit of bronze plate armour. Only one with a correspondingly
+#huge body can wear it.
+%%%%
+warlock's mirror
+
+#A handheld array of hexagonal mirrors, synthesized from a truly exotic
+#substance and polished to a blinding sheen. A skilled user will find that it
+#can reflect almost anything, even spells that pierce through lesser materials
+#and hexes with no physical manifestation at all.
+%%%%
+amulet of invisibility
+
+#An amulet that can be activated to render its wearer invisible.
 %%%%

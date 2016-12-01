@@ -1,114 +1,128 @@
 %%%%
 Centaur
 
-敏速でたくましく大きな体のセントールは他の種族より多くの食料を必要とする。
-彼らは特に飛び道具を扱う技能に長けている。
+#Swift, strong and bulky, Centaurs are particularly skilled with ranged
+#weaponry.
 %%%%
 Deep Dwarf
 
-闇ドワーフは地下深くに住み、自然に治癒することができない。
-しかし彼らはとても損傷に強く、傷を治す道具を持っている。
+#Deep Dwarves live underground and cannot regenerate health naturally, but they
+#are very resilient to damage, and carry a wand of healing.
 %%%%
 Deep Elf
 
-闇エルフは魔法の使用に熟達しているが、非常に軟弱である。
+#Deep Elves have a strong affinity for all kinds of magic, but are very fragile.
 %%%%
 Demigod
 
-神々の末裔は決して神を信奉しないが、並外れた能力値と体力でそれを補っている。
+#Demigods refuse to worship any god, but make up for this with divine attributes
+#and high reserves of health and magic.
 %%%%
 Demonspawn
 
-悪魔の血族は半人、半悪魔の存在である。彼らは育つにつれ強力な悪魔の変異を得る。
+#Demonspawn are half human, half demon. They acquire strong demonic mutations as
+#they grow.
 %%%%
 Draconian
 
-ドラコニアンは万能の混血種である。
-彼らは成長してレベル7に到達すると固有の色が発現する。
+#Draconians are versatile hybrids. They mature when reaching level 7 and develop
+#a colour.
+%%%%
+Formicid
+
+#Formicids are humanoid ants adept at digging. Their limbs are exceptionally
+#strong and they live in a state of permanent stasis.
 %%%%
 Felid
 
-フェリッドは優れた知覚を持ち、何度も生き返る。しかし高度な道具や武器、
-鎧を扱うことができない。
+#Felids are many-lived cats possessing sentience. They are incapable of advanced
+#item manipulation or the use of armour or weapons.
 %%%%
 Ghoul
 
-永遠なる腐敗を宣告されたアンデッドだ。彼らは常に腐った食料を探し回り、
-その鉤爪で切り刻む。
+#Ghouls are undead creatures, damned to rot eternally. They have sharp claws,
+#and they feed on decaying flesh to sustain themselves.
 %%%%
 Gargoyle
 
-ガーゴイルは生ける石で作られており、大地と異常なまでの親和性を持つ。
+#Made of living stone, Gargoyles have a preternatural affinity for the earth.
+#They have low health, but their stone bodies are incredibly tough.
 %%%%
 Halfling
 
-ハーフリングは小さいが頑丈で、スリングの使用に卓越している。
-彼らは突然変異への抵抗力を持つ。
+#Small but hardy, Halflings excel with slings. They have an increased resistance
+#to mutagenic effects.
 %%%%
 High Elf
 
-呪文の詠唱だけでなく剣を持って戦うことができる、誇り高きエルフだ。
+#High Elves are adept with blades and with many schools of magic, and have high
+#attributes.
 %%%%
 Hill Orc
 
-オークは近接戦闘が得意で、攻撃魔法を少しかじっている。
-オークはとても高慢でうぬぼれている者が多く、大多数から嫌われている。
+#Orcs are skilled in close combat, and often dabble in offensive magic. Hated by
+#most, orcs are very proud and many of them feel superior.
 %%%%
 Human
 
-普通で平凡な人間だ。
+#Humans advance quickly in levels and have equal abilities in most skills.
 %%%%
 Tengu
 
-戦いを好む鳥人間で、武器も呪文も扱う。彼らはずいぶん軟弱だが、
-後に高速な飛行を習得する。
+#Tengu are bird-people who love to fight, both with weapons and spells. They are
+#quite fragile, but they learn to fly swiftly later on.
 %%%%
 Kobold
 
-小型であり、いたずら好きで軟弱だが、多様な才能を持っている。
-彼らはあらゆる肉を食べることができるだろう。
-%%%%
-Lava Orc
-
-溶岩オークは大地と炎の魔術の達人であり、ダンジョンの奥深くからやってきた。
-彼らの特性は体温によって変化する。
+#Kobolds are small, mischievous and a little fragile, but multi-talented.
 %%%%
 Merfolk
 
-半人半魚の水棲の民は水陸両生である。彼らは強い闘士で、
-支援魔法の使用に熟達している。
+#Half fish, half human, Merfolk are citizens of both water and land. They are
+#strong combatants, and adept at using magic to assist in battle.
 %%%%
 Minotaur
 
-ミノタウロスは雄牛の頭を持つ、巨大で力強い人型生物だ。
-彼らはあらゆる近接・射撃による戦闘に優れている。
+#Minotaurs are large muscular humans with bovine heads. They excel at all forms
+#of close and ranged combat.
 %%%%
 Mummy
 
-包帯と防腐液に覆われたアンデッドの姿だ。それは古代の呪いで動いている。
+#Compelled to walk by an ancient curse, Mummies are adept at Necromancy but
+#learn other skills very slowly. They are unable to consume any food or potions.
 %%%%
 Naga
 
-ナーガは胸から上が人間で、下半身は鱗のある蛇のような混血種だ。
-彼らの移動は遅いが、生まれつき頑強である。
+#Nagas are hybrids; human from the chest up, with a scaly, muscular torso
+#trailing off like that of a snake. They move slowly but are naturally resilient.
 %%%%
 Octopode
 
-オクトポードは水陸両生の頭足類である。彼らは8つの指輪を身に付けることができるが、
-ほとんどの鎧を装備することができない。
+#A species of amphibious cephalopods. They can wear eight rings, but almost no
+#armour fits them.
 %%%%
 Ogre
 
-オーガは巨大で力強く、ほとんど獣のように思われている。
-しかしオーガは魔術の基礎に精通している。
+#Large and strong, Ogres are mostly seen as brutes. They are very comfortable
+#with the basics of magic, however.
 %%%%
 Spriggan
 
-スプリガンはとても小さく、とても虚弱で、とてもすばしっこい。
-スプリガンは暗殺や呪文詠唱に優れている。
+#Very small, very frail and very fast, Spriggans make highly competent stabbers
+#and spellcasters.
 %%%%
 Troll
 
-トロルは巨大で凶暴で、躊躇うことなく全てを鉤爪で引き裂こうとしている。
-彼らはいつも空腹である。
+#Trolls are large brutes with powerful claws, always hungering for raw meat.
+#They regenerate health rapidly.
+%%%%
+Vampire
+
+#Shifting between the states of life and undeath, Vampires are accomplished
+#stabbers and casters.
+%%%%
+Vine Stalker
+
+#Frail symbionts, Vine Stalkers cannot regain health from devices or potions.
+#Their magical reserves absorb damage, and they pack a magic-restoring bite.
 %%%%

@@ -1,850 +1,1580 @@
 %%%%
 Abjuration spell
 
-この呪文は召換された敵対的なモンスターを一体対象とし、
-元いた場所に送還しようと試みる。少なくとも対象の存在可能な時間を短くする。
+#Reduces the remaining duration of any nearby hostile summoned creatures.
 %%%%
 Agony spell
 
-この呪文は決して直接の死は引き起こさないが、対象の体力を半分奪い去る。
+#Cuts the resilience of a target creature in half. This damage is never directly
+#lethal.
 %%%%
 Airstrike spell
 
-モンスターを取り巻く大気に強烈な竜巻を起こす。
-この呪文は空を飛んでいるモンスターに特に効果的だ。
+#Causes the air around a creature to twist itself into a whirling vortex of
+#meteorological fury. It is especially effective against flying enemies.
 %%%%
 Alistair's Intoxication spell
 
-この呪文は脳内物質のごく一部をアルコールに変換し、
-術者の視界内の毒の耐性を持たない全ての知的な人形生物に混乱をもたらす。しかし、
-この呪文は術者に対して強力に効果をもたらし、
-毒の耐性をもってしてもこの効果を防ぐことはできない。
-この呪文はしばしば魔術師の宴会の景気づけに唱えられる。
+#Converts a small portion of the brain matter of those around you into alcohol,
+#confusing all intelligent humanoids within view (although poison-resistant
+#creatures may resist the effects). The caster may experience vertigo briefly
+#as a result of making contact with other minds. It is frequently used as an
+#icebreaker at wizard parties.
 %%%%
 Animate Dead spell
 
-この呪文は死体を蘇生し、術者のしもべとする。
-術者の視界内にある全ての死体が対象となる。つまりこの呪文によって、
-力ある術者は魂なきアンデッドの軍隊を編成することができる。
-ゾンビは彼らが蘇生された階層から移動できないことには留意せねばならない。
+#Reanimates all corpses and skeletons in the vicinity as followers. This magic
+#is unstable, so eventually those reanimated will crumble to dust. Zombies and
+#skeletons cannot leave the level they were created on.
 %%%%
 Animate Skeleton spell
 
-この呪文はモンスターの骨を反生命の存在として蘇生する。
-これはモンスターの骨が肉に包まれている状態であっても作用する。
-スケルトンは彼らが蘇生された階層から移動できないことには留意せねばならない。
+#Reanimates a single skeleton as a follower, even if that skeleton is still
+#encased in flesh. This magic is unstable, so eventually those reanimated will
+#crumble to dust. Skeletons cannot leave the level they were created on.
 %%%%
 Apportation spell
 
-術者が少し離れたアイテムの山から、
-一番上にあるアイテムを引き寄せることを可能にする。
-質量の大きなアイテムは呪文の成功を難しくする。
-ある種のアイテムはこの呪文で動かすには重過ぎる。
+#Pulls the top item or group of similar items from a distant pile to the floor
+#near the caster. With low power, items might not be moved all the way to the
+#caster's position.
+#
+#Extremely powerful magical items, such as the Orb of Zot, may actively resist
+#the pull of this spell.
+%%%%
+Aura of Abjuration spell
 
-ゾットのオーブのように極めて強力な魔法のアイテムは、
-能動的にこの呪文の引力に抵抗する。
+#Continuously abjures hostile summoned creatures in the vicinity of the caster.
+#This reduces their remaining time before being sent back where they came from.
+%%%%
+Aura of Brilliance spell
+
+#Empowers the magic of nearby wizard allies of the caster, allowing them to
+#cast their magic more powerfully and more often, but at the price of fixing
+#the caster in place until they no longer have any nearby allies they can
+#empower.
+%%%%
+Avatar Song spell
+
+#Sings a powerfully haunting song; in addition to making nearby victims
+#unwilling to move away from the singer, it calls forth drowned souls from
+#any nearby bodies of deep water. Extremely loud noises, such as those produced
+#by lightning or scrolls of noise, will disrupt the effect, as will leaving the
+#caster's line of sight.
+%%%%
+Awaken Earth spell
+
+#Animates some rock walls adjacent to a target – including the target itself if
+#it is a rock wall – to create some earth elementals.
 %%%%
 Awaken Forest spell
 
-この呪文は術者に周辺の木々に非常に限定的な運動性を与えることを可能とする。
-木々は枝を揺り動かし、根を動かすことができるようになる。
-この魔法をかけられた木々は、愚かにも近づいた敵を打ちのめすだろう。
+#Gives some limited motility to nearby trees, allowing them to sway their
+#branches and shift their roots. Such enchanted trees will lash at any adjacent
+#enemy.
 %%%%
 Awaken Vines spell
 
-この呪文は地面から数本のつるを生やす。このつるは侵入者まで到達すると、
-侵入者を掴んで木々の近くへと引き寄せる。
+#Causes vines to grow from the ground. The vines will reach out and grab
+#interlopers, dragging them towards any nearby trees.
+%%%%
+Banishment spell
+
+#Banishes a creature into the Abyss.
+%%%%
+Battlecry spell
+
+#Inspires nearby allies of the caster to fight more aggressively, increasing
+#the strength of their blows.
 %%%%
 Beastly Appendage spell
 
-この呪文は一時的に術者の身体の一部を動物の対応する部位に入れ替え、
-追加攻撃を可能とさせる。これは防具をつけた状態で変化をもたらすほど強力ではない。
+#Temporarily replaces one or a pair of the caster's appendages with an animal
+#counterpart, giving them an extra attack. It is not powerful enough to meld
+#armour or enhance appendages that are already nonhuman.
+%%%%
+Berserker Rage spell
+
+#<Berserk ability>
+%%%%
+Berserk Other spell
+
+#Causes a nearby ally to fly into a berserk rage. Going berserk temporarily
+#increases health, speed, and damage dealt in melee.
+%%%%
+Bind Souls spell
+
+#Bestows an enchantment on other nearby living creatures that may cause them to
+#rise as simulacra after being slain.
+%%%%
+Black Mark spell
+
+#Empowers the caster and any nearby allies to debilitate their foes on a
+#successful melee attack, allowing them to inflict draining, cause weakness, or
+#deplete magical power.
 %%%%
 Blade Hands spell
 
-この呪文は術者の手を大鎌に似た長大な刃に変化させる。
-この状態では呪文の詠唱は幾分難しくなる。
+#Causes long, scythe-shaped blades to grow from the caster's hands. It makes
+#spellcasting somewhat difficult.
+%%%%
+Blink Allies Away spell
+
+#Blinks allies in sight of the caster away from a nearby enemy.
+%%%%
+Blink Allies Encircling spell
+
+#Translocates a number of allies in the caster's sight to surround a targeted
+#enemy.
+%%%%
+Blink Away spell
+
+#Translocates the caster to a location further away from a targeted enemy.
 %%%%
 Blink Close spell
 
-この呪文は術者を視界内の指定した敵の方向へと短距離転移させる。
+#Translocates the caster a short distance towards a targeted enemy.
 %%%%
 Blink Other Close spell
 
-この呪文は視界内の敵を術者の方向へと短距離転移させる。
-この効力は通常の魔法抵抗で防ぐことはできない。
+#Translocates a targeted enemy a short distance towards the caster. It cannot be
+#resisted by usual means of magic resistance.
 %%%%
 Blink Other spell
 
-この呪文は視界内の敵を無作為に短距離転移させる。
-この効力は通常の魔法抵抗では防ぐことができない。
+#Randomly translocates a targeted enemy a short distance. It cannot be resisted
+#by usual means of magic resistance.
+%%%%
+Blink Range spell
+
+#Translocates the caster to a location further away from a targeted enemy, but
+#still within sight of the target.
 %%%%
 Blink spell
 
-この呪文は術者に無作為な座標への短距離の瞬間移動をもたらす。
+#Randomly translocates the caster a short distance.
 %%%%
 Blinkbolt spell
 
-この呪文は詠唱したものを光の矢へと変化させる。詠唱者は矢の到着点まで移動する。
+#Transforms the caster into a lightning bolt, and translocates the caster to
+#the bolt's destination.
+%%%%
+Bolt of Cold spell
+
+#Fires a penetrating bolt of frost.
+%%%%
+Bolt of Draining spell
+
+#Fires a penetrating bolt of negative energy, which drains any living creature
+#it strikes.
+%%%%
+Bolt of Fire spell
+
+#Fires a penetrating bolt of flames.
 %%%%
 Bolt of Inaccuracy spell
 
-この呪文は白熱するエネルギーの矢を実体化させ、命中した対象に大ダメージを与える。
-不幸にもこの呪文は狙いをつけることが非常に難しく、極々稀にしか命中しない。
-ご愁傷様である。
+#Fires a penetrating bolt of incandescent energy which inflicts enormous damage
+#upon any creature it strikes. Unfortunately, it is very difficult to aim and
+#rarely hits anything. Pity, that.
+%%%%
+Bolt of Magma spell
+
+#Fires a penetrating bolt of molten rock. A portion of its damage bypasses
+#fire resistance.
 %%%%
 Borgnjor's Revivification spell
 
-この呪文は術者の全ての傷を瞬時に治癒するが、
-代償として永久的に負傷への耐久力が減少する。
--代償の大きさは魔法の技能に反比例する。
-
-この呪文は文字通り「死のとば口」より術者を引き上げるほど強力であるが、
-術者は一時的に行動不能になってしまうほどの反動を被る。
+#Instantly heals any and all wounds suffered by the caster, but also permanently
+#lessens their resilience to injury, to a degree dependent on (and inversely
+#related to) power.
+#
+#It is powerful enough to literally pull someone out of Death's Door, although
+#the shock will briefly confuse and paralyse the caster. It has no effect on the
+#undead.
 %%%%
 Brain Feed spell
 
-この呪文は敵の知能の一部を吸収する。この呪文による吸収は一時的なものであり、
-能力維持の指輪によってこの効力を防いだり、大幅に減少させることが可能である。
+#Drains a portion of a visible enemy's intelligence. Such a loss is only
+#temporary, and can be recovered by gaining experience.
+%%%%
+Brothers in Arms spell
+
+#<Brothers in Arms ability>
 %%%%
 Call Canine Familiar spell
 
-この呪文は術者の助けになる犬族を一匹だけ召喚する。
+#Summons a solitary canine to the caster's aid.
 %%%%
 Call Imp spell
 
-この呪文は地獄の穴から下級の悪魔を召換する。
+#Calls forth a minor demon from the pits of Hell.
 %%%%
 Call Lost Soul spell
 
-この呪文は死霊術により幽霊を召喚し、一時的に物質的形態を取らせる。この幽霊、
-または「失われし魂」はより強力なアンデッドの体に入り死の淵から戻ってくることができ、
-さらに死にゆく生命体を幽霊へと変化させることができる。
-この魂の物質的形態は一時的だが、それが修復したものは永続する。
-少なくともあなたが修復されたものを再度殺すまでは。
+#Summons a necromantic spectre. These lost souls can enter the bodies of more
+#powerful undead to bring them back from brink of demise, or turn dying living
+#creatures into spectral versions of themselves.
+%%%%
+Call of Chaos spell
+
+#Calls upon the powers of Chaos to empower nearby allies. The effects vary
+#wildly and are usually, but not always, positive.
+%%%%
+Call Tide spell
+
+#Allows the caster to affect the tidal phase of all water within a large
+#distance. Soon after calling it, the waters on the whole level will reach high
+#tide. Waters near the caster will reach even higher levels than they would
+#normally.
 %%%%
 Cantrip spell
 
-キャントリップはたいしたことのない呪文で、無知な敵を驚かせようとしたり、
-術者の気分を高めるために使う。キャントリップには実際には何の効果もなく、
-あなたのような熟達した冒険者はこんな悪戯を必要としないし、恐れることもない。
-ひょっとしたら、念の為、
-あなたはペイントされていない木を三度叩いてその邪悪なる目を防ぎたいと思うかもしれない。
+#Casts one of a number of minor spells, aimed at trying to bolster the caster's
+#morale. They have no noticeable effect.
 %%%%
 Cause Fear spell
 
-この呪文は唱えた者の周辺にいる存在に恐怖を抱かせる。
+#Causes fear in those near to the caster. Adventurers suffering from this effect
+#find that extremely loud noises, such as those produced by lightning or scrolls
+#of noise, will disrupt it, as will leaving the caster's line of sight.
+%%%%
+Chain of Chaos spell
+
+#Creates an arc of pure chaos, striking nearby creatures with unpredictable
+#effects.
 %%%%
 Chain Lightning spell
 
-この呪文は地面に吸収されるまで対象を変えながら連鎖する強力な放電現象を発生させる。
-しかし術者の十分近くに対象がいなければ、
-この呪文は害を及ぼさず地面に吸収されてしまう。
+#Releases a massive electrical discharge that arcs from target to target until
+#it grounds out. It may ground out harmlessly if there are no targets
+#sufficiently close to the caster. Its damage partially bypasses armour.
+%%%%
+Chaos Breath spell
+
+#Exhales a large cloud of fumes filled with the very essence of chaos.
+%%%%
+Chilling Breath spell
+
+#Exhales a blast of frost that bypasses any armour the target may have, and
+#may knock back airborne targets.
+%%%%
+Cigotuvi's Embrace spell
+
+#Violently mutilates all nearby corpses, wrapping them around the caster to
+#serve as both armour and shield. The carrion will fall away over time, faster
+#and faster as more is piled on, though increased power will tighten its grasp
+#on the caster's body. It has no effect on casters in Statue Form, or with
+#Ozocubu's Armour active.
+%%%%
+Cleansing Flame spell
+
+#<Cleansing Flame ability>
+%%%%
+Cloud Cone spell
+
+#Blasts the area near the caster with destructive clouds. At low power, the most
+#lethal clouds that can be created are noxious fumes. As power increases, this
+#gives way to roaring flames, freezing vapours, and poisonous gas. At the
+#highest tiers of power storm clouds, acidic fog and clouds of negative energy
+#become available.
 %%%%
 Cold Breath spell
 
-この怪物は集束した冷気の突風を吐き出す。
-それは飛行中の対象を後退りさせるかもしれない。
+#Exhales a focused blast of icy-cold air. It may knock back airborne targets.
 %%%%
 Confuse spell
 
-この呪文は対象の精神に当惑と混乱をもたらす。
+#Induces a state of bewilderment and confusion in a creature's mind.
 %%%%
 Confusing Touch spell
 
-この呪文は術者の利き手に魔法のエネルギーを付与する。
-このエネルギーはモンスターに素手で触れることで解放され、
-モンスターに混乱状態をもたらす。
+#Enchants the caster's dominant hand with magical energy. This energy is
+#released when the caster touches a monster with their bare hand, and may induce
+#a state of confusion in the monster.
+%%%%
+Confusion Gaze spell
+
+#Induces a state of bewilderment and confusion in a creature's mind, with no
+#direct line of fire required.
+%%%%
+Conjure Ball Lightning spell
+
+#Creates a pack of ball lightnings, which seek out the nearest enemy before
+#exploding in a huge blast of electricity. Casters are advised to use caution;
+#the lightning is not mindful of what it may hit.
+#
+#The magic which keeps ball lightnings cohesive has limited range, so they may
+#dissipate harmlessly if allowed to drift too far away from their caster before
+#exploding.
 %%%%
 Conjure Flame spell
 
-この呪文は唸りをあげる炎の円柱を生成する。
+#Creates a column of roaring flame in a targeted empty location.
 %%%%
 Control Undead spell
 
-この呪文は術者の近辺にいるアンデッドを奴隷化しようと試みる。
+#Enslaves any undead in the vicinity of the caster.
+%%%%
+Control Winds spell
+
+#Allows limited powers over the flow of air in caster's sight, blowing away or
+#dissipating any nearby clouds affecting the caster or their allies.
+%%%%
+Controlled Blink spell
+
+#Translocates the caster a short distance, with precise control. Be wary that
+#controlled translocations will cause the subject to become contaminated with
+#magical energy.
 %%%%
 Corona spell
 
-この呪文はモンスターを取り囲む光輪を発生させ、その姿を鮮明に浮かび上がらせる。
-この光はダンジョンの薄暗さを相殺するので、
-この呪文を受けた敵に攻撃を命中させるのはかなり容易になる。
+#Causes a halo of glowing light to surround and effectively outline a creature.
+#This glow offsets the dark, musty atmosphere of the dungeon, and makes the
+#affected creature appreciably easier to hit.
 %%%%
 Corpse Rot spell
 
-術者の周囲に転がる死体を急速に腐敗させ、その課程で不浄極まる瘴気を発生する。
-この瘴気は触れたモンスターの生命力を奪い取って行く。
+#Rapidly accelerates the decomposition of any corpses lying around the caster,
+#emitting in the process a foul miasmic vapour, which eats away at the life
+#force of any creature it envelops.
+%%%%
+Corrosive Bolt spell
+
+#Fires a penetrating bolt of acid.
+%%%%
+Corrupt Body spell
+
+#Instills a corruption within a target, temporarily mutating their body in an
+#adverse fashion. It cannot affect artificial beings, and the undead will
+#decompose if affected.
+%%%%
+Corrupting Pulse spell
+
+#Instills a corruption within all visible targets, temporarily mutating their
+#bodies in an adverse fashion. It cannot affect artificial beings, and the
+#undead will decompose if affected.
+%%%%
+Crystal Bolt spell
+
+#Projects a penetrating projectile with peculiar magical properties. It is
+#randomly imbued with either fire or ice, and additionally will reflect from
+#walls of any material due to the crystal embedded in the shot.
 %%%%
 Cure Poison spell
 
-この呪文は術者の体内から毒を取り除く。
+#Removes poison from the caster's system.
 %%%%
 Darkness spell
 
-この呪文はダンジョン内の光を弱め、視界を狭くする。
-この呪文の効果を及ぼす範囲は広大で、外から見ても不自然に見えないので、
-術者の非常に近くにいないモンスターには気づかれづらい。
+#Dims the light of the dungeon, reducing the range of vision.
 %%%%
 Dazzling Spray spell
 
-この呪文は術者の指先から明るく輝くエネルギーの帯を放つ。
-これは命中した生命あるモンスターの目を眩ませ、盲目状態にしふらふらさせる。
+#Fires a spread of scintillating energy bolts from the caster's fingertips. Any
+#living creature they strike may be dazzled and left stumbling blindly.
 %%%%
 Death Channel spell
 
-この呪文は術者やそのしもべが殺した生き物を幽鬼のしもべとして甦らせる。
+#Raises living creatures slain by the caster and their allies, reducing them to
+#a state of spectral slavery.
+%%%%
+Death Rattle spell
+
+#Exhales the essence of the dying, creating clouds of noxious miasma.
 %%%%
 Death's Door spell
 
-この呪文は極めて強力ではあるが、かなりの危険を伴う。
-この呪文は術者を短時間だけ損害からほぼ無敵にする。
-しかし術者を危険なまでに死に接近させもする。死に接近するあまり、
-術者の身体は半ば死者のもののように振舞い、回復は効果をもたらさない。
-
-また、呪文の効果時間が切れる直前に術者は一回警告を受ける。
-死霊術に長けた者はより多くの生命力を保つことができる。
-アンデッドはこの呪文を使用することができない。
+#Renders the caster nigh invulnerable to harm for a brief period, but brings
+#them dangerously close to death in the process. So close, in fact, that the
+#body believes itself to be dead — healing effects will do nothing.
+#
+#The caster will receive one warning shortly before the spell expires. With high
+#power, the caster will be left more resilient when the effect ends. It has no
+#effect on those who are already undead.
 %%%%
 Debugging Ray spell
 
-1500もの恐ろしいダメージを与える必中の光線だ。
+#Fires a ray which does massive damage (1500 hp) and always hits.
+%%%%
+Deflect Missiles spell
+
+#Protects the caster from all kinds of projectile attacks, making them
+#significantly easier to dodge. It is highly effective against both
+#single-target and penetrating attacks. Each time a missile is deflected the
+#spell has a chance of expiring, with a lower chance of expiry at high power.
 %%%%
 Delayed Fireball spell
 
-詠唱に成功すると、
-術者は好きな時に瞬時にしてファイアボールを解き放つことができる。
-この呪文を知っている場合、
-ファイアボールの呪文を呪文レベルの消費なしで記憶できる。
+#Gives the caster the ability to instantaneously release a fireball at a later
+#time. Knowing this spell allows the learner to memorise Fireball for no
+#additional spell levels.
 %%%%
 Dig spell
 
-この呪文は強化を受けていない岩を掘削し通路にする。
+#Digs a tunnel through unworked rock.
 %%%%
 Dimension Anchor spell
 
-この呪文は抵抗されなければ、対象の試みているあらゆる転移を妨害する。
-対象が自発的に行なった転移であるかは関係しない。
-これは次元を越える効果にも影響するが、追放を防ぐことはない。
+#Blocks any translocations attempted by the affected target, be they voluntary
+#or not. This includes even some cross-plane effects, although notably not
+#Banishment.
 %%%%
 Discord spell
 
-この呪文は近くの怪物を狂気の激昂に駆り立て、
-凄まじい力と速度を持って近くのあらゆるものに容赦のない攻撃を行わせる。
+#Drives nearby creatures into an insane frenzy, causing them to mercilessly
+#attack anything and everything nearby with great strength and speed.
 %%%%
 Disintegrate spell
 
-この呪文は小規模な空間内のあらゆるものを暴力的に粉砕する。
-この呪文は手酷い損傷を引き起こすことができ、
-また岩の塊を除去するためにも使用できる。
+#Violently rends apart anything in a small volume of space. It can be used to
+#cause severe damage, or remove a chunk of rock.
 %%%%
 Disjunction spell
 
-この呪文はあなたの周囲の円形の空間を一時的に不安定にさせ、
-周囲のモンスターを無作為な場所に瞬間移動させる。
-瞬間移動させる可能性はあなたからの距離に依存しており、
-隣接された際にはほぼ確実に効果を及ぼす。
+#Destabilizes the space in a sphere around the caster for a while, causing
+#anyone nearby to blink away from the caster. The chance of blinking depends on
+#the distance from the caster, being nearly certain when directly adjacent. It
+#causes magical contamination when cast.
 %%%%
 Dispel Undead spell
 
-この呪文はアンデッドモンスターを束縛する強力な力を行使し、
-非常に大きなダメージを与える。
+#Harms an undead creature greatly by interfering with the forces binding it
+#together.
+%%%%
+Dispersal spell
+
+#Teleports away any creatures within a short distance of the caster. Any
+#creature that resists the effect will still be irresistibly blinked a shorter
+#distance, and any monster it affects at all has a chance of being confused by
+#the warping of space.
+%%%%
+Doom Howl spell
+
+#Unleashes a piercing howl that catches and echoes in victims' minds. While
+#those echoes linger, nightmarish creatures will hear and track them to their
+#source. It can only be used once by a given creature.
 %%%%
 Dragon Form spell
 
-この呪文は術者を一時的に炎を吐くドラゴンに変化させる。
-ドラコニアンの術者は本来の体色とブレスの種類を保持したまま変化する。
+#{{
+#    local desc = "Transforms the caster into a mighty"
+#
+#    if you.race():find("Draconian") then
+#        desc = desc .. " dragon, retaining your innate colour"
+#        if you.race() ~= "Grey Draconian" then
+#            desc = desc .. " and increasing the power of your breath"
+#        end
+#    else
+#        desc = desc .. ", fire-breathing dragon"
+#    end
+#
+#    desc = desc .. "."
+#
+#    return desc
+#}}
+%%%%
+Dragon's Call spell
+
+#Issues a powerful call to a draconic realm, beckoning forth dragon after dragon
+#to engage the summoner's enemies. The spell is taxing to maintain, and each new
+#dragon which answers the call will further drain the summoner's magical
+#reserves.
+%%%%
+Drain Life spell
+
+#<Drain Life ability>
+%%%%
+Drain Magic spell
+
+#Causes the target's magic to leak into the air, as though they were hit by an
+#antimagic weapon.
+%%%%
+Draining Gaze spell
+
+#Causes the target's magic to leak into the air, as though they were hit by an
+#antimagic weapon, with no direct line of fire required.
+%%%%
+Dream Dust spell
+
+#Overwhelms the target with soporific dream dust, putting them to sleep.
+#Additional dream sheep will increase the strength and duration of this effect.
+%%%%
+Druid's Call spell
+
+#Recalls woodland creatures from elsewhere on the same level.
+%%%%
+Electrical Bolt spell
+
+#Throws a bolt of electricity at the target, with high accuracy.
+%%%%
+Energy Bolt spell
+
+#Fires a beam of highly destructive energy. It can blow rock into pieces.
 %%%%
 Enslavement spell
 
-この呪文は敵対的なモンスターをしばらくの間あなたの味方にする。
+#Causes an otherwise hostile creature to fight on the caster's side for a while.
 %%%%
 Ensnare spell
 
-この呪文は白い粘ついた物体を放ち、蜘蛛の巣を形成する。
+#Shoots a stream of webbing at a creature, ensnaring the target in a spider web.
+%%%%
+Ensorcelled Hibernation spell
+
+#Lowers its target's metabolic rate, inducing hibernation. After awakening, the
+#target will be unable to be put to sleep again for some time.
+%%%%
+Entropic Weave spell
+
+#Corrodes the target, with no direct line of fire required.
 %%%%
 Excruciating Wounds spell
 
-この呪文は一時的に、術者が装備している武器に苦痛の本質を吹き込む。
-この呪文は既に魔力の付与されている武器には作用しない。他の属性とは異なり、
-苦痛の属性は武器属性付与の巻物で永続化できないことに注意が必要だ。
+#Temporarily infuses the weapon held by the caster with the essence of pain
+#itself. It will not affect artefact weapons.
 %%%%
-Fire Brand spell
+Explosive Bolt spell
 
-術者の手にした武器に炎を纏わせる。
-これは既に何らかの魔力を帯びている武器には効果がない。
+#Fires a bolt containing fiery energy; on piercing a target, it lets loose an
+#explosion that harms nearby creatures as well.
+%%%%
+Flay spell
+
+#Opens painful illusionary wounds on the target's body, which disappear after
+#a short time or on the death of the caster. This cannot kill directly, and is
+#ineffective against unnatural targets.
+%%%%
+Fire Breath spell
+
+#Breathes a blast of fire at a targeted creature.
 %%%%
 Fire Storm spell
 
-この呪文は唸りをあげる強力な炎の嵐を対象の周囲に造り出す。
-これは広範囲に抵抗し難い火のダメージを与え、
-短命なファイアボルテックスを発生させる。
+#Calls forth a mighty storm of roaring flame directly onto the target, dealing
+#damage in a large area and leaving behind short-lived fire vortices. A portion
+#of its damage bypasses fire resistance.
+%%%%
+Fire Summon spell
+
+#Summons demons of flame and damnation.
 %%%%
 Fireball spell
 
-この呪文は爆発する火の玉を放つ。
-もしもこの呪文を学ぶ者がすでに遅延式ファイアボールを習得している場合、
-この呪文は呪文レベルを消費せずに記憶できる。
+#Hurls an explosive ball of fire. This spell does not cost any spell levels if
+#the learner already knows Delayed Fireball.
 %%%%
 Flame Tongue spell
 
-この呪文は炎を短く迸らせる。
+#Creates a short burst of flame.
 %%%%
-Flight spell
+Flaming Cloud spell
 
-この呪文は術者に空中を飛ぶ能力を与える。
+#Conjures up a large cloud of roaring flames.
+%%%%
+Flash Freeze spell
+
+#Freezes the air around a target, causing significant harm and slowing the
+#target's movement. It has no effect on targets that are already frozen.
 %%%%
 Force Lance spell
 
-この呪文は衝撃を与える矢を放つ。
-これは対象の防御によって衝撃が無効化されなければ、
-対象を後ろに押し戻すことができる。
+#Fires a shaft of concussive force. If the impact deals damage, it may knock the
+#target back.
+%%%%
+Forceful Invitation spell
+
+#Summons some of the lesser threats from one of the Lair of Beasts, the Snake
+#Pit, the Spider Nest, the Swamp, the Shoals, the Orcish Mines, the Elven Halls,
+#the Vaults, or the Crypt; the specific branch varies with the caster.
 %%%%
 Freeze spell
 
-この呪文はモンスターを凍えさせる。
-これは一時的に冷血動物の代謝を遅くする場合がある。
-%%%%
-Freezing Aura spell
-
-この呪文は術者の手にした武器に凍てつく冷気を纏わせる。
-これは既に何らかの魔力を帯びている武器には効果がない。
+#Freezes an adjacent creature. This may temporarily slow cold-blooded creatures.
 %%%%
 Freezing Cloud spell
 
-この呪文は致命的な冷気の雲を出現させる。
-%%%%
-Frenzy spell
-
-この能力はこれを行使したモンスターを敵を打ち据えんとする激しい怒りに駆り立てる。
-これは狂戦士化と似ている一方で、敵と味方を見分けることができない。
+#Conjures up a large cloud of lethally cold vapour.
 %%%%
 Fulminant Prism spell
 
-この呪文は周囲の魔法エネルギーを集中させた後に、
-暴力的な魔力の爆発を引き起こす晶柱を出現させる。晶柱は極度に脆く、
-少しの損傷でも爆発が早まってしまうことに注意しなければならない。
+#Conjures a prism which unleashes a violent explosion of arcane force after a
+#short duration. The prism is extremely fragile and any damage caused to it may
+#result in premature detonation.
+%%%%
+Gell's Gravitas spell
+
+#Briefly redirects gravity around a target point, causing 'down' to be towards
+#that point. All nearby creatures, save the caster, fall helplessly toward that
+#point – typically colliding with each other, or with a victim standing there.
 %%%%
 Ghostly Fireball spell
 
-この呪文は死霊術のエネルギーによる爆発する球体を投射する。
-これは不気味な緑色の炎にある程度似ているが、
-通常の炎とはまったく異なるものである。
-このエネルギーは生命力維持で軽減することができ、
-アンデッドには損傷を与えず回復させる。
+#Hurls an exploding ball of negative energy which drains any living creature
+#it engulfs.
 %%%%
-Ghostly Flames spell
+Ghostly Sacrifice spell
 
-この呪文は死霊術のエネルギーによる炎上を引き起こす。
-これは不気味な緑色の炎にある程度似ているが、
-通常の炎とはまったく異なるものである。この直撃と残り火は生命体に損傷を与え、
-アンデッドを回復させる。このエネルギーは幽体のアンデッドの怪物に癒合する。
+#Uses an ally's motivating essence to create a blast of negative energy,
+#draining any living creature it engulfs. The being used to fuel the spell, no
+#matter whether living or construct, is consumed and unmade in the process.
+%%%%
+Throw Ally spell
+
+#Throws a nearby ally at the monster's foe, doing minimal damage and landing the
+#thrown monster nearby.
+%%%%
+Glaciate spell
+
+#Conjures forth a mighty blast of ice. Creatures within its cone-shaped area of
+#effect take damage, with higher damage being dealt to those close to the
+#caster. Those hit by the blast are encased in ice, slowing their movement, and
+#those killed by the blast may be frozen into solid blocks of ice. A significant
+#portion of its damage bypasses cold resistance.
+%%%%
+Greater Servant of Makhleb spell
+
+#<Greater Servant of Makhleb ability>
 %%%%
 Haste Other spell
 
-この呪文は、術者の近くにいる一体の仲間を選び、全ての行動を加速させる。
+#Speeds the actions of a nearby ally.
 %%%%
 Haste spell
 
-この呪文は対象の動きを加速する。
-あなた自身を加速させることは魔力による汚染を蓄積させる。
+#Speeds the actions of a targeted creature. While hasted you will gain magical
+#contamination.
+%%%%
+Haunt spell
+
+#Calls wraiths and ghosts to haunt the caster's target. They will only attack
+#the creature they are haunting, and will dissipate quickly once their target
+#dies.
 %%%%
 Heal Other spell
 
-この呪文は、術者の近くの味方を回復させる。
+#Heals a nearby ally.
 %%%%
-Hellfire Burst spell
+Call Down Damnation spell
 
-この能力は、対象の下に突如として地獄の業火を爆発させる。
-いかなる護りをもってしてもこの不浄なる炎を防ぐことはできず、
-鎧を通過して炎は直撃する。一部の怪物は地獄の業火への免疫を持つが、
-それらの怪物のほとんどは炎でできている。
+#Blasts a targeted enemy with damnation, with no direct line of fire required.
+#These unholy forces harm the victim and anyone adjacent, and are not affected
+#by any means of protection, such as armour or resistances. However, certain
+#creatures, usually those able to invoke damnation themselves, are entirely
+#unscathed by damnation.
+%%%%
+Hurl Damnation spell
+
+#<Hurl Damnation ability>
 %%%%
 Holy Breath spell
 
-この怪物は善神達の栄光に輝く巨大な祝福された炎の雲を吐くことができる。
-この炎は輝けるものが邪悪と定めたものにとって極めて危険である。
+#Exhales a large cloud of blessed flame, shining with the glory of the good
+#gods. These flames are especially dangerous to evil creatures, and have no
+#effect on holy creatures.
 %%%%
 Holy Flames spell
 
-この呪文は敵を祝福された炎の円環に閉じ込める。
-敵がこの炎を踏み越えようとするとき、
-邪悪なものや不浄なものは特に手酷い損傷を受ける。
-神聖なる生物はなんら悪影響を受けることなくこの炎を通過することができる。
+#Traps an enemy in a ring of blessed flame. These flames are especially
+#dangerous to evil creatures, and have no effect on holy creatures.
+%%%%
+Hydra Form spell
+
+#Transforms the caster into a many-headed hydra for a brief duration. Its many
+#heads strike in all directions. Edible foes slain by the gnashing teeth are
+#instantly devoured, reinvigorating the caster in their reptilian rampage.
+#
+#The form's number of heads is fixed upon casting the spell, and increases with
+#power.
+%%%%
+Iceblast spell
+
+#Fires a large mass of ice, which explodes on impact. It affects even
+#cold-resistant creatures somewhat, due to the strong impact and cutting edges.
 %%%%
 Ice Form spell
 
-この呪文は一時的に術者の肉体を、水に浮くほど軽い、
-凍てつく氷のモンスターに変化させる。
+#Transforms the caster into a frozen ice-creature, light enough to float on
+#water. The caster becomes incredibly resistant to cold, and resistant to
+#poison, but vulnerable to fire and unable to evoke wands.
 %%%%
 Ignite Poison spell
 
-この呪文は術者の周囲のあらゆる毒素を焼夷の炎に変化させ、
-毒に侵されたモンスターを体内から焼き尽くす。
-これは毒性のあるモンスターに対して非常に効果的だ。術者自身はこの影響を受けない。
+#Converts all nearby poison into liquid flame, burning poisoned creatures from
+#within. It also turns clouds of poison and mephitic gases into flame. The
+#caster is not affected directly.
+%%%%
+Infestation spell
+
+#Calls forth a plague of scarabs, infesting affected creatures for a duration
+#depending on power and causing death scarabs to grow and burst from them upon
+#death.
 %%%%
 Infusion spell
 
-この呪文は術者の近接攻撃に魔法を吹き込み、
-術者の魔力の蓄えを引き出して打撃を受けた敵に追加の損傷を与える。
-この魔法は術者の魔力が枯渇しているときは効力を発揮しない。
+#Infuses the caster's melee attacks with magic, drawing from their reserves of
+#magical energy to deal additional damage whenever an enemy is hit. It has no
+#effect when the caster's magic is depleted.
 %%%%
 Injury Bond spell
 
-この呪文は術者に仲間を護らせ、仲間が受ける損傷の半分を術者に移し換える。
+#Binds the caster to a nearby ally, redirecting half of any damage the target
+#suffers to the caster.
+%%%%
+Injury Mirror spell
+
+#Reflects damage taken for a short duration, hurting attackers whenever any
+#damage is taken.
 %%%%
 Ink Cloud spell
 
-クラーケンは戦闘で不利になったとき、
-安全に逃走するため水に不透明な液体を注入することが知られている。
-彼らより小さい同類とは異なり、クラーケンが水を十分掻き回すならば、
-このインクは水上の視界をも不明瞭にするほど強力である。
+#Releases a thick cloud of ink to obscure vision.
 %%%%
 Inner Flame spell
 
-この呪文はモンスターの体内を激しい炎で満たす。
-これはモンスターの死亡時に爆発的に放出される。
-発生する爆発の範囲は対象の大きさに依存している。
+#Fills an enemy with an intense fire, to be explosively released upon death. The
+#size of the explosion caused is dependent on the size of the target.
 %%%%
 Invisibility spell
 
-この呪文は対象を他の存在の視覚から隠す。
-透明化している間あなたは魔力による汚染にさらされ、
-汚染の蓄積はやがて発光による透明化の解除をもたらす。
+#Turns a targeted creature invisible. Turning invisible causes magical
+#contamination and may eventually cause glowing, nullifying the invisibility.
+%%%%
+Invisibility Other spell
+
+#Turns a nearby ally invisible.
 %%%%
 Iron Shot spell
 
-この呪文は大きくて重い金属の矢を術者の敵に放つ。
+#Hurls a large and heavy metal shot.
+%%%%
+Irradiate spell
+
+#Transmutes an ultra-thin layer of the caster's skin (or equivalent) directly
+#into pure magical energy, blasting and deforming adjacent creatures. The caster
+#is not left entirely unaffected; some of the magic lingers, enough to leave
+#them dangerously contaminated after a few castings.
+%%%%
+Iskenderun's Battlesphere spell
+
+#Conjures a small globe of magical energy linked to the caster's own magical
+#reserves. While the battlesphere cannot take independent action, it will fire
+#volleys of energy at the caster's enemies in sync with its creator's own
+#destructive conjurations. With increasing power, the battlesphere lasts longer
+#and deals more damage per volley.
 %%%%
 Iskenderun's Mystic Blast spell
 
-この呪文はバチバチと爆ぜる破壊的なエネルギーの球を放つ。
-この球体は着弾時にしばしば爆発を引き起こし、
-このような爆発の起こる可能性はこの球体の飛行距離が短い場合により高くなる。
+#Throws a crackling sphere of destructive energy. The sphere will sometimes
+#explode on impact, and the chance of it doing so is higher if the sphere has
+#traveled less distance.
 %%%%
 Leda's Liquefaction spell
 
-この呪文は術者の周囲の地面を液状化させて通り抜けることを困難にする。
-液状化した地面を通り抜けるとき、移動速度が大いに減少する。
+#Liquefies the ground around the caster, making it difficult to move through.
+#Any movement through liquefied ground will be slowed, and attempts to attack
+#in melee may fail.
+#
+#The effect starts out with a radius depending on power, which will then shrink,
+#eventually covering only the caster, before it times out.
 %%%%
 Lee's Rapid Deconstruction spell
 
-この呪文は壁や弾力のない可視のモンスターを解体し、
-致命的な破片の爆発を引き起こす。これは氷や骨、
-壁と同様の物質でできたモンスターに対して使用することができ、
-石化の呪文によって石化したモンスターにも同様に使用できる。
+#Fragments a wall or a suitably brittle visible monster into an explosion of
+#deadly shrapnel. It can be used on monsters made of ice, bone, or any wall-like
+#substance, as well as those turned to stone by petrification. Its damage is
+#strongly reduced by armour.
+#
+#Targets made from rock, stone, ice or bone will cause a small or medium-sized
+#explosion. Metal targets will cause a small but particularly damaging
+#explosion, and targets made from crystal will cause a large and extremely
+#damaging explosion.
+#
+#At high power, this spell is capable of destroying some walls: rock, stone or
+#metal walls have a chance of being destroyed with at least 5, 6 or 7 bars of
+#power. Crystal walls are particularly brittle and have a chance of being
+#destroyed at any power level.
+%%%%
+Legendary Destruction spell
 
-岩石や氷、骨でできた対象物は小規模、あるいは中規模な爆発を引き起こす。
-金属でできた対象物は小規模ながら著しい威力の爆発を引き起こす。
-水晶でできた対象物は大規模で高威力の爆発を引き起こす。
-
-呪文のPowerが高ければ、この呪文によっていくつかの壁を破壊することも可能である。
-岩や石、または金属の壁であればPower値が少なくとも5、
-6または7あれば破壊できる可能性がある。水晶の壁は特に弾力がなく、
-いかなるPower値であっても破壊できる可能性がある。
+#Conjures two explosive magical effects in instant succession. The effects can
+#be any mix of Fireball, Iceblast, and Ghostly Fireball.
 %%%%
 Lehudib's Crystal Spear spell
 
-この呪文は致命的なまでに鋭い水晶の矢を放つ。
+#Hurls a lethally sharp shard of crystal.
 %%%%
-Lethal Infusion spell
+Lesser Beckoning spell
 
-この呪文は術者の手にした武器を不浄な力で満たす。
-これは既に何らかの魔力を帯びている武器には効果がない。
+#Beckons the target forward, attempting to place them adjacent to the caster.
+%%%%
+Lightning Bolt spell
+
+#Fires a mighty bolt of lightning. It inflicts less damage than other similar
+#bolts, but its damage partially bypasses armour and it can be bounced off walls
+#to hit targets twice.
 %%%%
 Magic Dart spell
 
-この呪文は魔法のエネルギーによる小さな矢を放つ。これは決して外れることがない。
+#Fires a small bolt of magical energy which never misses.
+%%%%
+Major Destruction spell
+
+#<Major Destruction ability>
 %%%%
 Major Healing spell
 
-この呪文は術者が肉体に負ったダメージを大いに癒す。
+#Heals a large amount of damage to the caster's body.
 %%%%
 Malign Gateway spell
 
-この呪文は現実世界に深い亀裂を生じさせ、
-未知の腐敗した異世界へのポータルを作りだす。このポータルは自ら領域を広げるが、
-幸いにしてその存在は一時的である。
-悪意に満ちた異世界の住人がその触腕を突き出さんとしている。
-触腕の主の正体など誰も知りはしないが、まず誰もが近づきたいとは思わないだろう。
+#Tears a gash in reality, creating a self-sustained but temporary portal to an
+#unknown, tainted otherworld. It requires open space to succeed. After a short
+#time, a powerful clawed tentacle will reach through the portal, remaining bound
+#to the caster's will for a duration depending on power. With the portal's
+#expiry, the tentacle will be severed and turn on the caster.
 %%%%
 Malign Offering spell
 
-この呪文は術者の周囲の敵から生命力を吸収し、近くの味方をその過程で回復させる。
+#Drains life from an enemy, healing nearby allies in the process.
 %%%%
 Malmutate spell
 
-この呪文は対象に突然変異を与える。この突然変異はほぼ確実に有害である。
-人工的な存在は突然変異せず、アンデッドは突然変異しない代わりにいくらか腐敗する。
+#Bestows a mutation on a target. The mutation is almost always harmful. It
+#cannot affect artificial beings, and the undead will decompose if affected.
+%%%%
+Mara Summon spell
+
+#Weaves illusions of the caster. Such illusions have the same physical prowess
+#as the original, and can cast the same spells.
 %%%%
 Mass Confusion spell
 
-この呪文は術者の姿を見た全ての者を混乱させる。
+#Causes confusion in all who gaze upon the caster.
 %%%%
-Melee spell
+Mephitic Cloud spell
 
-この打擲のロッドは近接戦闘用に設計されており、敵を打ち据えたとき、
-残量を解放して発動スキルに依存して追加の損傷を与える。
-鈍器スキルはこの武器の基本能力を改善するのに役立つ。
+#Conjures up a short-lived cloud of noxious fumes, which may cause confusion.
 %%%%
 Mesmerise spell
 
-この呪文は、術者から遠ざかろうとする意思を犠牲者から奪う。
+#Makes a targeted creature unwilling to move away from the caster. Extremely
+#loud noises, such as those produced by lightning or scrolls of noise, will
+#disrupt the effect, as will leaving the caster's line of sight.
 %%%%
 Metabolic Englaciation spell
 
-この呪文は術者の視界内全てのモンスター代謝率を低下させようと試み、
-冷気への耐性を持たない全ての対象の動きを遅延させる。
-これは対象の魔法への抵抗力を無視するが、
-強力なモンスターはそうでないモンスターよりも早く遅延から復帰する。
+#Lowers the metabolic rate of every creature in the caster's vicinity, slowing
+#all those who are not resistant to cold. Those especially vulnerable to cold
+#will be affected much more strongly, and tougher creatures will be slowed for a
+#shorter time.
 %%%%
 Metal Splinters spell
 
-この能力は鋭い金属の破片の嵐を送り出し、通常はブレスの攻撃とする。
+#Fires a directed stream of sharp metal splinters. Its damage is strongly
+#reduced by armour.
+%%%%
+Miasma Breath spell
+
+#Creates a large cloud of foul pestilence, slowing and rotting any living
+#creatures it touches.
+%%%%
+Might Other spell
+
+#Significally increases a nearby ally's damage dealt in melee.
 %%%%
 Might spell
 
-この能力は同名の薬と同じく、対象の近接戦闘能力を著しく向上させる。
+#Significantly increases the caster's damage in melee.
 %%%%
 Minor Healing spell
 
-この呪文は術者が肉体に負ったダメージを少しだけ癒す。
+#Heals a small amount of damage to the caster's body.
+%%%%
+Monstrous Menagerie spell
+
+#Summons a powerful exotic creature to the caster's aid. It may call forth a
+#harpy, manticore or lindwurm, and at high power may summon a sphinx, or an
+#entire pack of harpies. With high power the individual creatures will also gain
+#increased strength.
+%%%%
+Necromutation spell
+
+#Transforms the caster into a lich — a powerful skeletal figure. The caster
+#becomes more resistant to cold and hostile enchantments and completely immune
+#to poison, rotting, negative energy and torment, and requires no food at all
+#for the duration of the spell. The caster also gains some of the more dubious
+#benefits of having an undead body, such as a vulnerability to holy weapons and
+#an inability to consume potions.
+%%%%
+Noxious Cloud spell
+
+#Creates a large cloud of noxious fumes, which may cause confusion.
 %%%%
 Olgreb's Toxic Radiance spell
 
-この呪文は術者に有毒なエネルギーの放射を引き起こし、呪文が続く間、
-近くにいるあらゆるものに継続的に毒を与える。
-放射の発生源は毒耐性を持っていても苦しめられるほどに強力であるため、
-この魔法は術者にとって有害であることに注意せよ。
+#Causes the caster to radiate toxic energy, continuously inflicting poison on
+#everything nearby for as long as the spell lasts.
 %%%%
 Orb of Destruction spell
 
-この呪文は純粋な破壊的魔術の球を創りだす。
-この球体は他の投射物と比べてゆっくりと射出され、対象へと飛来する。しかし、
-強力な慣性によって、特に素早い相手ならばその裏をかくことができるかもしれない。
-この球体は安定するまでに時間を要し、
-発生したばかりのものは本来持ち得る威力を発揮することができない。
+#Conjures an orb made of pure destructive magic. Compared to most other
+#projectiles, these orbs travel at a relatively slow pace. The orbs home onto
+#their targets, yet because of their huge inertia, especially agile opponents
+#may be able to outmanoeuvre them. The orbs need some time to stabilize, and a
+#nascent orb will deal reduced damage.
+#
+#Residents of the dungeon are able to maintain the orb until it impacts a
+#target, but when cast by you the orb will dissipate upon leaving your line of
+#sight.
+%%%%
+Orb of Electricity spell
 
-この呪文の写本の多くは筆記者の手違いから、
-飛距離が伸びると不安定になる憂き目に会っていると言われている。
-特定の個人はこの欠陥がない魔法書に閲覧することができる、用心せよ！
+#Hurls a crackling orb of electrical energy, creating a huge explosion on
+#impact. Its damage partially bypasses armour.
 %%%%
 Ozocubu's Armour spell
 
-この呪文は術者の体を氷の保護膜で覆う。
-この呪文の威力は術者の氷の魔術のスキルに依存する。
-術者とその装備品はこの保護膜の冷気による影響を受けないが、
-その他の要因による冷気の影響は通常通り受ける。
-このスペルは術者がすでに(行動阻害率5以上の)重い鎧を纏っていた場合は機能しない。
-この呪文の効果は術者が氷の躰を持っていた場合に向上する。
+#Envelops the caster's body in a protective layer of thick ice. This will slow
+#the caster's movement slightly, and provides no special protection against cold.
+#The spell will not function for casters already wearing heavy armour (any body
+#armour with an encumbrance rating of 5 or more).
 %%%%
 Ozocubu's Refrigeration spell
 
-この呪文は術者とその周辺から熱を奪い取り、
-冷気に耐性のない存在全てに損害を与える。
+#Drains heat from the caster and their surroundings, causing harm to all
+#creatures not resistant to cold and preventing the caster from using potions
+#for a brief duration.
 %%%%
 Pain spell
 
-この呪文は生命のあるモンスターに苦痛に満ちた損傷を与える。
-術者は反動として少量のダメージを受ける。
+#Inflicts an extremely painful injury upon one living creature. The caster
+#suffers minor damage from the backlash.
 %%%%
 Paralyse spell
 
-この呪文は対象を動くことができないようにする。
+#Prevents a creature from taking any action for a short time.
+%%%%
+Paralysis Gaze spell
+
+#Irresistably prevents a creature from taking any action for a short time,
+#requiring multiple charges but not line of fire.
 %%%%
 Passage of Golubria spell
 
-この呪文は2つのゲートを創り出す。1つは常に術者の付近に設置され、
-このゲートに入った全ての者は無作為に開かれたもう1つのゲートへと即時にテレポートすることができる。
-設置できるゲートの数には制限は存在しないが、
-ゲートは使用されるか時間経過によって閉じてしまう。
+#Opens two gateways (one always near the caster), which allow instantaneous
+#transport to random other open gateways to any creature entering them. There is
+#no limit to the number of gateways that can be open at one time, but a gateway
+#will close when entered, or after a moderate amount of time.
 %%%%
 Passwall spell
 
-この呪文はごく短い時間、術者の肉体が岩の中を通ることができるように変化させる。
-体が岩を透過する状態に変化するまでに無防備な状態となるので、
-この呪文には危険が伴う。
+#Tunes the caster's body such that it can instantly pass through solid rock.
+#It takes some time for the caster to attune to the rock, during which they will
+#be helpless.
 %%%%
 Petrify spell
 
-この呪文はモンスターを石化させようと試みる。もし成功すれば、
-モンスターは一時的に石へ変化するまでの少しの間減速する。
-石化したモンスターはわずかにダメージを受けづらくなる。
-これは翼の使用もまた不可能にし、溶岩の上を飛行している際は非常に危険である。
+#Petrifies a targeted creature. If successful, the target is slowed down for a
+#while until it is temporarily turned into stone. In this state, the target will
+#take less damage upon being hit.
+%%%%
+Petrifying Cloud spell
+
+#Exhales calcifying dust, which petrifies anyone affected for longer than a
+#brief moment.
+%%%%
+Phantom Mirror spell
+
+#Creates a phantom copy of a creature. The copy will be somewhat fragile, but
+#otherwise almost indistinguishable from the original.
+%%%%
+Plane Rend spell
+
+#Summons some of the greater threats from one of the Snake Pit, the Spider Nest,
+#the Swamp, the Shoals, the Pits of Slime, the Elven Halls, the Vaults, the
+#Crypt, the Tomb of Ancients, or the Realm of Zot; the specific branch varies
+#with each cast of the spell.
 %%%%
 Poison Arrow spell
 
-最も不浄で有害な毒素による魔法的な矢を放つ。
-この効果からの完全な免疫を持つ生命体はいない。アンデットであっても、
-この呪文による物理的な損傷を免れることはできない。
-%%%%
-Poison Weapon spell
-
-この呪文は手にして武器を一時的に毒で覆う。
-これは既に何らかの魔力を帯びている武器には効果がない。
+#Fires a magical arrow coated with the most vile and noxious toxin. Even those
+#resistant to poison will be poisoned by it, and a small portion of its direct
+#damage bypasses poison resistance.
 %%%%
 Poisonous Cloud spell
 
-この呪文は致命的なガスによる巨大な雲を発生させる。
+#Conjures forth a great cloud of lethal gases.
 %%%%
 Polymorph spell
 
-この呪文はモンスターの形状を無作為に変化させる。
-これは変身するモンスターに対して特に効果的だ。
+#Randomly alters the form of a creature. It is especially effective against
+#shape-changing creatures.
+%%%%
+Porkalator spell
+
+#Transforms the target into a pig. The target moves swiftly but cannot evoke
+#wands or cast spells. The caster's demise will cause the transformation to end.
+%%%%
+Portal Projectile spell
+
+#Allows the caster to teleport fired or thrown missiles directly to their
+#targets for a short duration, spending an additional small amount of magic for
+#each missile. Teleported projectiles have their accuracy greatly increased.
+%%%%
+Primal Wave spell
+
+#Conjures a great wave of water that may knock back the target, and creates a
+#pool of shallow water for a short duration.
 %%%%
 Quicksilver Bolt spell
 
-ある種のドラゴンは魔力消去のブレスを吐くことができ、
-その風貌から時折「水銀」と称される。損傷を与えるに際し、
-このブレスは幾らかの魔力付与を除去する。有用な魔力付与、
-有害な魔力付与の両方が除去される。
+#<Breathe Dispelling Energy ability>
+%%%%
+Random Bolt spell
+
+#Fires, at random, a bolt of venom, negative energy, fire, cold, dispelling
+#energy, electricity, or acid.
 %%%%
 Recall spell
 
-この呪文は召換士と死霊術師にとって非常に有用である。
-唱えると仲間にしている全てのモンスターを術者の付近に呼び寄せる。
+#Recalls any friendly creatures on the same level to a position adjacent to the
+#caster, over a short duration.
 %%%%
 Regeneration spell
 
-この呪文は術者が損傷した部位を活性化させる。
-この不浄な行いは術者の再生能力を一定時間劇的に強化する。
-この間は栄養の消耗も同様に増加する。
+#Reanimates parts of the caster's wounds. This unnatural act dramatically but
+#temporarily increases the caster's health regeneration, while also speeding
+#their metabolism.
+%%%%
+Repel Missiles spell
+
+#Reduces the chance of projectile attacks striking the caster, making them
+#easier to dodge. Single-target attacks are much easier to repel than
+#penetrating attacks. Each time a missile is repelled the spell has a chance of
+#expiring, with a lower chance of expiry at high power.
+%%%%
+Resonance Strike spell
+
+#Calls a surge of power from the earth, striking an enemy within the caster's
+#sight. The spell cascades through nearby constructs, growing in strength with
+#each one standing near the target.
+%%%%
+Ring of Flames spell
+
+#Surrounds the caster with a mobile ring of searing flame, and keeps other fire
+#clouds away from the caster. This spell attunes the caster to the forces of
+#fire, increasing the power of their fire magic and giving protection from fire.
+#However, it also makes them much more susceptible to cold.
 %%%%
 Sandblast spell
 
-この呪文は細かい粒子の混じった高速な突風を引き起こす。
-例えば術者が小石を手に持つなど触媒を利用する時この呪文は最もよく働く。
-しかし地面の砂だけを利用して呪文をかけることも可能である。
+#Creates a short blast of high-velocity particles. It has increased power and
+#range when the caster provides some source (by wielding a stone), but will
+#still have some effect with no source wielded. Its damage is strongly reduced
+#by armour.
+%%%%
+Sap Magic spell
+
+#Taints a targeted creature's ability to cast spells. Casting a spell while
+#afflicted with this condition may cause the target to lose control over their
+#magic, progressively hindering their chances of success as more spells are cast.
+%%%%
+Scattershot spell
+
+#Blasts a cone-shaped area in front of the caster with metallic fragments. Its
+#damage is strongly reduced by armour.
+%%%%
+Seal Doors spell
+
+#Imparts seals on nearby doors and stairs, preventing those not allied with
+#the caster from traversing them.
 %%%%
 Searing Ray spell
 
-この呪文は神秘のエネルギーを術者の手から継続的に発射する。最初は穏やかだが、
-(その場に留まり他の行動を取らないことによって)
-術者が呪文の照準を維持し魔力を供給すれば、光線は強く成長し、
-ついには敵の隊列を引き裂くことが可能になる。
+#Fires a continuous ray of arcane energy from the caster's hands. Though
+#initially mild, so long as the caster maintains focus upon the spell and
+#supplies it with magical power (by waiting in place and not taking any other
+#actions), the ray will grow in strength until it becomes a surging beam able to
+#tear clean through the ranks of the caster's foes.
+%%%%
+Searing Breath spell
+
+#Breathes a blast of fire at a targeted creature, leaving a cloud of flames at
+#the endpoint.
 %%%%
 Sentinel's Mark spell
 
-この呪文は敵に対し強力な目印を与える。
-この目印は対象となったものの存在と位置を同じ階層にいる全てのものに知らせる。
+#Bestows a strong beacon upon a targeted creature. It announces the presence
+#and location of the marked creature to everyone on the same level.
+%%%%
+Shadow Bolt spell
+
+#Mimics a penetrating damaging spell cast by a Dithmenos worshipper, firing a
+#bolt of shadow.
 %%%%
 Shadow Creatures spell
 
-この呪文は影と霊的な物質からモンスターを編み上げる。
-創り出された存在は術者の近くで何らかのモンスターへと実体化するこの呪文はモンスターの装備までも生成する。
-この装備は強固な現実性を持つため、永続的に存在する。
+#Creates replicas of creatures native to the caster's current location, weaving
+#them from shadows and threads of Abyssal matter.
+%%%%
+Shadow Shard spell
+
+#Mimics a damaging spell cast by a Dithmenos worshipper, firing a shard of
+#shadow.
 %%%%
 Shatter spell
 
-この呪文は術者の周囲に振動性の爆発を起こす。
-これは大抵のモンスターにダメージを与えるが、とりわけ石、金属、
-結晶などの弾力のない物質でできたモンスターに効果がある。
-この魔法は壁に対しても効果があることで知られている。
+#Causes an enormous burst of concussive force around the caster. Flying and
+#gelatinous creatures can escape the worst effects, and insubstantial creatures
+#are entirely unaffected, but all others will be gravely injured by the blast.
+#It may also destroy nearby walls.
 %%%%
 Shock spell
 
-この呪文は跳弾する電撃の矢を放つ。
+#Throws a bouncing bolt of electricity. It partially bypasses armour.
 %%%%
 Shroud of Golubria spell
 
-この呪文はあなたの身体を覆うとばりに沿って空間を歪曲させる。
-これは敵の攻撃を宙へ逸らすことによって、あなたを打撃から保護する。
-遠距離からの攻撃は速度が早すぎるため、この呪文によって逸らすことはできない。
-このとばりは非常に不安定で、衝撃によって不意に飛散してしまう。
+#Bends space around the caster's body, protecting them from some blows by
+#redirecting their force to the air nearby. Ranged attacks cannot be diverted in
+#this way. The shroud is highly unstable, and may fall apart unexpectedly under
+#stress.
+%%%%
+Warning Cry spell
+
+#Generates a loud noise, alerting nearby enemies.
+%%%%
+Silence spell
+
+#Eliminates all sound near the caster. This makes reading scrolls, casting
+#spells, invoking divine abilities, or shouting impossible in the caster's
+#vicinity. The spell's oppressive, unnatural effect will greatly hamper stealth.
+#
+#Certain monsters have innate magical or special abilities which will still be
+#usable while silenced.
+#
+#The effect starts out with a radius depending on power, which will then shrink,
+#eventually covering only the caster, before it times out.
 %%%%
 Simulacrum spell
 
-この呪文は手にしたオリジナルの肉片から、氷のレプリカを作り出す。
-この呪文は不安定なので、レプリカはいずれ気体に昇華してしまう。
-それよりも先に斬り裂かれたり、水溜りに溶けてしまったりしなければであるが。
-幻像は生成された階層から移動することができないことに留意せねばならない。
+#Creates an icy replica from the corpse of the original being. This magic is
+#unstable, so eventually the replica will sublimate into a freezing cloud.
+#Simulacra cannot leave the level they were created on.
+%%%%
+Siren Song spell
+
+#Sings a haunting song, making nearby victims unwilling to move away from the
+#singer. Extremely loud noises, such as those produced by lightning or scrolls
+#of noise, will disrupt the effect, as will leaving the caster's line of sight.
 %%%%
 Sleep spell
 
-この呪文は対象を眠らせようと試みる。損傷を受けたり、
-大きな音を立てられると効果を受けた人物は目覚める。
+#Puts a targeted creature to sleep. Taking damage will typically wake the
+#target, and loud sounds can potentially do so as well.
 %%%%
 Slow spell
 
-この呪文は対象の動きを遅くする。
+#Slows the actions of a creature.
+%%%%
+Slug Dart spell
+
+#Fires a sharp dart of hardened chitin.
+%%%%
+Smiting spell
+
+#<Smiting ability>
 %%%%
 Song of Slaying spell
 
-この呪文はあなたの精神に古き戦いの詩歌を呼び起こし、
-極めて大きな声であなたに吟唱させる。この吟唱の続く間、
-あなたは怪物を殺害する度あなたの近接スキルは一時的に強化される。
-ただし召喚されたモンスターの殺害はこの強化を引き起こさない。
-この強化は吟唱の続く間のみ有効である。吟唱中に新たにこの呪文を詠唱すると、
-既存の吟唱を中断し、新たな詩歌の吟唱を開始する。
+#Recites ancient verses of battle. Each non-summoned enemy the caster slays in
+#combat during this recitation temporarily enhances their melee and ranged
+#skills. The bonus only lasts for the duration of the song; casting this spell
+#while already singing will start a new song, not extend an existing one.
 %%%%
 Spawn Tentacles spell
 
-巨大な触手を持つ怪物は、あなたのような高慢なる軽食を巻き込み捕食するため、
-触手を本体から離れたところまで伸ばすかもしれない。
+#Extends large tentacles to attack nearby enemies.
+%%%%
+Spectral Cloud spell
+
+#Creates a cloud of spectral mist, dealing minor damage to all creatures other
+#than the undead. Dangerous but short-lived spectral undead creatures will
+#coalesce from the mist over time.
 %%%%
 Spectral Weapon spell
 
-この呪文は装備している武器の魂を引き出し、あなたのために戦わせる。
-その力は対象の武器を扱うあなたのスキルに依存する。
-武器はそれ自身が攻撃を行うことはなく、あなたの攻撃への追撃のみを行う。
-あなたは同時に一つしか幽体の武器を扱えない。
+#Draws out the spirit within a wielded weapon to fight for the caster, with its
+#strength increasing with power. It only attacks when the caster does, and its
+#kills count as the caster's own. If the weapon is damaged, part of the injury
+#will be echoed on the caster's body. Only one spectral weapon can be maintained
+#at a time, and only while the original weapon remains wielded.
+#
+#Certain powerful named artefacts cannot be affected, and any abilities that
+#require evocation skill to trigger will not be active.
+%%%%
+Spellforged Servitor spell
 
-殺戮の詩の効果について、幽体の武器による殺害はあなた自身のものと見なされる。
-
-名前あるアーティファクトの持つ魂は強力すぎるため、
-この呪文で引き出すことはできない。
+#Summons an extraplanar elemental and binds it to a durable shell forged from
+#the caster's own magic. The servitor is capable of unleashing some of the
+#destructive spells known to its creator, though the strongest and most volatile
+#of magics cannot be imbued in this fashion.
 %%%%
 Spider Form spell
 
-この呪文は術者を一時的に、素早く動き、毒を持つ(しかし毒に弱い
-)蜘蛛型のモンスターに変化させる。
-この形態を取っている間には呪文の詠唱がやや困難になる。この形態を取っている間は、
-あなたは壁を登ることができる。
+#Transforms the caster into a venomous, spider-like creature. The caster becomes
+#highly evasive and gains a poisonous bite, but gains vulnerability to poison
+#and cannot evoke wands. It makes spellcasting slightly more difficult.
+%%%%
+Spit Acid spell
+
+#<Spit Acid ability>
+%%%%
+Spit Lava spell
+
+#Spits lava at a targeted creature.
+%%%%
+Spit Poison spell
+
+#<Spit Poison ability>
+%%%%
+Sprint spell
+
+#Causes the caster to cover ground more rapidly for a short duration.
 %%%%
 Static Discharge spell
 
-この呪文は術者に隣接するモンスター全てに稲妻を放つ。
-稲妻は地面に落ちて消えるまで、隣接した者(術者を含む)に連鎖していく。
+#Releases electrical charges against those next to the caster. These may arc to
+#other adjacent creatures, or back to the caster, before eventually grounding
+#out. It deals reduced damage when arcing to the caster, and bypasses any armour
+#the target may have.
 %%%%
 Statue Form spell
 
-この呪文は術者を一時的に鈍重ながら非常に強靭な石像に変化させ、武器を用いて、
-あるいは素手で馬鹿げた威力の攻撃を繰り出すことを可能にする。
-石像に変化した術者は電気から絶縁され、毒、腐敗、
-負のエネルギーに対する耐性を得る。
+#Transforms the caster into a slow but extremely robust stone statue, capable of
+#dealing powerful blows with weapons or bare fists. The caster's stone body is
+#insulated from electricity and gains resistance to poison, rotting and negative
+#energy.
 %%%%
 Steam Ball spell
 
-この怪物は熱い蒸気の球を放出し、敵に投げ付けることができる。
+#Throws a ball of hot steam towards a targeted creature.
 %%%%
 Sticks to Snakes spell
 
-この呪文は術者が握っている木製の矢弾 (矢または投げ槍) を原料とし、
-強力な変性を行う。
+#Transforms a number of arrows in inventory into short-lived snakes, creating
+#more dangerous snakes with higher power.
+%%%%
+Sticky Flame Range spell
+
+#Launches a glob of sticky flame, covering a targeted creature with liquid fire
+#for a short time.
+%%%%
+Sticky Flame Splash spell
+
+#<Breathe Sticky Flame ability>
 %%%%
 Sticky Flame spell
 
-この呪文は液体の炎の塊を作り出す。
-この液体は命中したモンスターに粘着して焼き尽くす。
+#Conjures a glob of sticky flame, covering an adjacent creature with liquid fire
+#for a short time.
+%%%%
+Still Winds spell
+
+#Brings the air into unnatural stillness across a huge area, preventing anything
+#short of a tornado from breaking the calm. The effect takes concentration to
+#maintain, and only lasts a short time; if the caster is killed, clouds will
+#begin to form again as normal.
 %%%%
 Sting spell
 
-この呪文は有毒な魔法の投げ矢を放つ。
+#Fires a magical dart of poison.
 %%%%
 Stone Arrow spell
 
-この呪文は鋭く尖った岩の杭を放つ。
+#Fires a sharp spine of rock.
 %%%%
 Stoneskin spell
 
-この呪文は術者の皮膚に大地の魔術の技能に応じた強靭さを与える。
-この呪文は比較的正常な肉体にしか作用しない。つまり、
-アンデッドも変身している者にも作用しない。ただし、
-もしも術者が石像の形態を取っている場合にはこの呪文の効果は強化される。
+#Hardens the caster's skin. It has no effect on the undead or those under the
+#effects of most types of transformation.
 %%%%
 Strip Resistance spell
 
-この呪文は対象の魔力抵抗を大幅に引き下げ、
-呪術や類似の呪文に対し脆弱にしようと試みる。
+#Greatly reduces the target's magic resistance, making them more vulnerable to
+#hostile enchantments.
+%%%%
+Sublimation of Blood spell
+
+#Converts some of the caster's blood into magical energy. The process is painful
+#but never directly lethal. The efficiency of the conversion increases with the
+#spell's power.
 %%%%
 Summon Air Elementals spell
 
-この呪文は一体または複数の大気の精霊を召喚する。
+#Summons one or more air elementals.
 %%%%
 Summon Butterflies spell
 
-この呪文はカラフルな蝶の群れを作り出す。なんて綺麗なんだろう！
+#Creates a shower of colourful butterflies. How pretty!
+%%%%
+Summon Demon spell
+
+#Opens a gate to the realm of Pandemonium and draws forth one of its inhabitants
+#to serve the caster for a time. The demon's servitude is not guaranteed, but
+#will be more likely with high power.
+%%%%
+Summon Dragon spell
+
+#Summons and binds a powerful dragon to perform the caster's bidding. At high
+#power it may summon particularly deadly varieties of dragon, or multiple lesser
+#dragons at once.
+%%%%
+Summon Drakes spell
+
+#Summons multiple drakes, and possibly one true dragon of some kind, barring the
+#most powerful ones.
 %%%%
 Summon Earth Elementals spell
 
-この呪文は一体または複数の大地の精霊を召喚する。
+#Summons one or more earth elementals.
+%%%%
+Summon Emperor Scorpions spell
+
+#Summons multiple noble and monstrous emperor scorpions.
+%%%%
+Summon Executioners spell
+
+#Summons multiple Executioners to tear apart foes of the caster.
+%%%%
+Summon Eyeballs spell
+
+#Summons multiple floating eyeballs that may be able to paralyse, drain,
+#confuse, mutate or disintegrate.
 %%%%
 Summon Fire Elementals spell
 
-この呪文は一体または複数の火の精霊を召喚する。
+#Summons one or more fire elementals.
+%%%%
+Summon Forest spell
+
+#Forcefully intersects a forested plane with this world. It requires open space
+#to succeed. While the spell holds, a spirit of the forest will be called forth,
+#and the trees of the forest will be awakened to deal damage to nearby enemies.
+%%%%
+Summon Greater Demon spell
+
+#Calls forth one of the greater demons of Pandemonium to serve the caster. With
+#high power, the summoned demon will be less likely to be initially hostile —
+#but the strongest demons may eventually turn against their summoner regardless.
+%%%%
+Summon Guardian Golem spell
+
+#Summons a protective golem. It redirects the injuries of its allies (but not
+#the caster) to itself, though it risks overheating after absorbing significant
+#amounts of damage. It will gain more health at high power.
 %%%%
 Summon Hell Beast spell
 
-ゲリュオンは彼の角笛を使い、致命的な悪魔の獣人を召喚し、
-あなたにけしかけることができる。
+#Summons a deadly hell beast.
+%%%%
+Summon Holies spell
+
+#Calls forth divine warriors to aid the caster.
 %%%%
 Summon Horrible Things spell
 
-この呪文はアビスへの門を開き、かの恐るべき場所から
-1体から数体のひどく忌まわしい者を召換する。この召換に応える者たちは、
-奉仕の代償として術者の知力の一部を要求する。
+#Opens a gate to the Abyss and calls through one or more hideous abominations
+#from that dreadful place. The opening of the gate may drain a portion of the
+#caster's intellect.
 %%%%
 Summon Hydra spell
 
-この呪文は術者と共に戦う多首のヒドラを短い間召喚する。
+#Summons a many-headed hydra to fight alongside the caster for a short time.
 %%%%
 Summon Ice Beast spell
 
-この呪文は氷の獣を召換して術者のしもべとする。
+#Calls forth a beast of ice to serve the caster.
 %%%%
 Summon Illusion spell
 
-この呪文は一時的に敵の鏡像を召喚する。
-この鏡像はオリジナルと同等の身体能力を持ち、同じ呪文を唱えることができる。
+#Summons a temporary mirror image of an enemy. Such a copy has the same physical
+#prowess as the original, and can cast the same spells.
 %%%%
-Summon Iron Elementals spell
+Summon Lightning Spire spell
 
-この呪文は一体または複数の鉄の精霊を召喚する。
+#Constructs a lightning spire in a nearby location. It can fire bouncing bolts
+#of electricity at the caster's foes, but is completely immobile.
+%%%%
+Summon Mana Viper spell
+
+#Summons a violet-scaled serpent whose bite can swiftly drain the magical
+#reserves of nearly any foe. At higher power, the antimagic properties of the
+#viper's bite grow even stronger.
 %%%%
 Summon Minor Demon spell
 
-この呪文は一体から三体の弱い (ランク5の) 悪魔を召喚する。
+#Summons between one and three minor (rank 5) demons.
+%%%%
+Summon Mushrooms spell
+
+#Summons wandering mushrooms and deathcaps next to a targeted creature.
+%%%%
+Summon Scarabs spell
+
+#Calls forth a swarm of death scarabs.
 %%%%
 Summon Small Mammal spell
 
-この呪文は術者の助けとなる小動物を一匹召喚する。
+#Summons a small mammal to the caster's aid.
 %%%%
 Summon Spectral Orcs spell
 
-この呪文は1から3体の幽体のオークを召喚する。
-そういった幽体は自ら魔法を使用しないので、
-この呪文で召喚されるものは近接戦闘を専門とし、
-時に生命あるオークに匹敵する力を持つ。
+#Summons between one and three spectral orcs, specialised for melee combat
+#and equipped with spectral weaponry and armour.
 %%%%
 Summon Swarm spell
 
-この呪文は有害な昆虫の群れを召換する。
+#Summons forth a pestilential swarm of insects.
 %%%%
 Summon Ufetubus spell
 
-この呪文はウフェツバスの大群を召喚し、あなたを取り囲む。
+#Summons multiple ufetubi; small, annoying demons.
+%%%%
+Summon Undead spell
+
+#Summons multiple undead monsters, creating various ghosts, vampires, wraiths
+#and other lesser undead.
+%%%%
+Summon Vermin spell
+
+#Summons multiple rats, spiders and worms.
 %%%%
 Summon Water Elementals spell
 
-この呪文は一体または複数の水の精霊を召喚する。
+#Summons one or more water elementals.
 %%%%
 Swiftness spell
 
-この呪文は非常な移動速度を得る能力を術者にもたらす。
-ただしこの速度には多大な犠牲が伴い、
-速度の上昇が終わった後に術者の速度は緩慢になる。
+#Calls forth winds to greatly increase the caster's movement speed. After the
+#effect ends, the caster's movements will be sluggish for a time.
+%%%%
+Symbol of Torment spell
+
+#Calls on the powers of darkness to cause agonising injury to any living thing
+#in the caster's vicinity, cutting their resilience in half. This damage is
+#never directly lethal.
 %%%%
 Teleport Other spell
 
-この呪文は対象の怪物を無作為な場所へと転位させる。
+#Randomly translocates a targeted creature.
 %%%%
 Teleport Self spell
 
-この呪文は術者を無作為な地点へ転移させる。
+#Teleports the caster to a random location.
+%%%%
+Throw spell
+
+#Hurls an adjacent foe a considerable distance, injuring them.
+%%%%
+Throw Barbs spell
+
+#Fires a volley of barbs at the target, skewering them and making movement
+#painful.
+%%%%
+Throw Flame spell
+
+#Throws a small puff of flame.
+%%%%
+Throw Frost spell
+
+#Throws a small puff of frost.
+%%%%
+Throw Icicle spell
+
+#Fires a shard of ice. Due to its strong impact and cutting edges, a
+#significant portion of its damage bypasses cold resistance.
 %%%%
 Thunderbolt spell
 
-この呪文は弧を描く電気を作り出す。
+#Creates an arc of electricity.
+%%%%
+Tomb of Doroklohe spell
+
+#Entombs the caster within walls of rock. These walls will push away objects in
+#their way, but their growth is obstructed by the presence of any creature. They
+#are not permanent, and will expire after a period of time.
+%%%%
+Tornado spell
+
+#Turns the air around the caster into a mighty vortex, doing tremendous damage
+#to everyone caught in it. Those affected will also be swept up into the air and
+#tossed around. Only the eye of the storm is a safe place, and it follows the
+#caster. The spell's effectiveness is greatly diminished in closed areas.
+%%%%
+Trog's Hand spell
+
+#<Trog's Hand ability>
+%%%%
+Tukima's Dance spell
+
+#Animates the weapon of a targeted foe, ripping it from their hands and causing
+#it to attack them relentlessly. Once the target dies, the weapon will fall to
+#the ground shortly thereafter.
+#
+#Ranged weapons and certain powerful named artefacts cannot be affected, and
+#any abilities that require evocation skill to trigger will not be active.
 %%%%
 Twisted Resurrection spell
 
-この呪文は周辺の死体を一斉に這い回らせ、おぞましい肉の塊へと合体させる。多量の、
-もしくは巨大な死体はより強力な創造物を作り上げる。
+#Causes nearby corpses to begin crawling together, merging into horrible
+#agglomerations of flesh. More and larger corpses result in more powerful
+#creations.
+%%%%
+Vampiric Draining spell
+
+#Steals the life of an adjacent living creature and grants it to the caster.
+#Life will not be drained in excess of what the caster can capably absorb.
+%%%%
+Venom Bolt spell
+
+#Fires a penetrating bolt of poison.
+%%%%
+Virulence spell
+
+#Makes a targeted creature more vulnerable to poison.
 %%%%
 Volley of Thorns spell
 
-この能力は小さく鋭い棘の雨を投射する。
+#Launches a small hail of sharp thorns.
+%%%%
+Wall of Brambles spell
+
+#Causes brambles to rapidly grow nearby. They have almost no structural
+#strength, but the wicked thorns they bear make their removal difficult. Such
+#brambles are sparse enough that almost any missile can pass through unhindered.
+%%%%
+Warning Cry spell
+
+#Generates a loud noise, alerting nearby enemies.
+%%%%
+Waterstrike spell
+
+#Causes the water around or under the target to violently swirl, dealing damage.
+#It can affect targets standing in or flying above water.
+%%%%
+Weave Shadows spell
+
+#Weaves a creature from shadows and threads of Abyssal matter. More powerful
+#creatures are summoned with higher power.
 %%%%
 Wind Blast spell
 
-この呪文は強力な突風を起こし、円錐形の範囲内にある怪物や雲を押し戻す。
+#Causes a strong gust of wind, pushing away creatures and clouds in a cone.
+%%%%
+Word of Recall spell
+
+#Recalls intelligent allies from elsewhere on the same level to the caster,
+#after a short delay.
 %%%%

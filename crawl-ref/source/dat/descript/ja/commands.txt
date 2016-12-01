@@ -1,333 +1,377 @@
 %%%%
 CMD_REST
 
-休息して傷を癒す
+#Rest and heal
 %%%%
 CMD_REST verbose
 
-HPかMPが完全に回復するまで最大100ターン休憩する。
-敵対的なモンスターを発見すると休憩は中止される。
+#Rests while your health and magic regenerate. Resting is interrupted as soon
+#as a hostile monster comes into view. If health and magic are both already
+#full, resting will wait for 100 turns.
 %%%%
 CMD_EXPLORE
 
-現在の階層の自動探索
+#Autoexplore the current level
 %%%%
 CMD_EXPLORE verbose
 
-自動で現在の階層の未踏の領域を探索し、自動収集対象のアイテムを収集する。
-敵対的なモンスターや未発見の施設を発見すると探索は中止される。
+#Automatically explores the current level, collecting items on the way.
+#Exploration stops as soon as a hostile monster comes into view, or when you
+#encounter new items or features.
 %%%%
 CMD_INTERLEVEL_TRAVEL
 
-離れた階層への移動
+#Travel to distant levels
 %%%%
 CMD_INTERLEVEL_TRAVEL verbose
 
-離れた階層に自動で移動する。敵対的なモンスターを発見すると移動は中止される。
+#Automatically travels to a chosen level or branch. Travel is interrupted by
+#monsters coming into view.
 %%%%
 CMD_USE_ABILITY
 
-神から授けられた能力、もしくは生得的な能力を使用する
-%%%%
-CMD_PRAY
-
-神に祈る
+#Use divine, innate or evokable abilities
 %%%%
 CMD_SEARCH_STASHES
 
-アイテム、施設の検索
+#Search for items/features
 %%%%
 CMD_SEARCH_STASHES verbose
 
-既に発見したアイテムや施設を検索し、その後それの存在する場所まで自動で移動する。
+#Searches for items or features seen elsewhere, and allows you to travel to
+#their location.
 %%%%
 CMD_REPLAY_MESSAGES
 
-最近のメッセージの再読
+#Reread recent messages
 %%%%
 CMD_RESISTS_SCREEN
 
-キャラクターの情報を表示する
+#Display character overview
 %%%%
 CMD_RESISTS_SCREEN verbose
 
-キャラクターの判っている耐性、能力、装備の能力、その他を表示する。
+#Displays an overview of your current resistances, abilities, equipment and
+#attributes.
 %%%%
 CMD_DISPLAY_OVERMAP
 
-ダンジョンの概観の表示
+#Display dungeon overview
 %%%%
 CMD_DISPLAY_OVERMAP verbose
 
-あなたが発見した分岐の入口、店やその他の施設の場所を表示する。
+#Displays an overview of dungeon branch locations, discovered altars, shops and
+#level annotations.
 %%%%
 CMD_DISPLAY_RELIGION
 
-信仰の状態の表示
+#Display religious status
 %%%%
 CMD_DISPLAY_RELIGION verbose
 
-あなたの進行する神の好き嫌い、振る舞い、あなたの現在の信仰状況、
-神の能力について表示する。
+#Displays your god's likes and dislikes, conduct, and your current religious
+#standing and divine abilities.
 %%%%
 CMD_DISPLAY_MUTATIONS
 
-突然変異の表示
+#Display mutations
 %%%%
 CMD_DISPLAY_SKILLS
 
-スキルの管理
+#Manage skills
 %%%%
 CMD_DISPLAY_CHARACTER_STATUS
 
-キャラクターのステータスの表示
+#Display character status
 %%%%
 CMD_DISPLAY_CHARACTER_STATUS verbose
 
-あなたに作用している魔術などを表示する。
+#Displays details on your current movement speed, attack speed, stealth, magic
+#resistance, and any currently active enchantments or status effects.
 %%%%
 CMD_DISPLAY_KNOWN_OBJECTS
 
-発見済みのアイテムの表示
+#List discovered item types
 %%%%
 CMD_SAVE_GAME_NOW
 
-ゲームを保存して終了
+#Save and exit
 %%%%
 CMD_SAVE_GAME_NOW verbose
 
-ゲームを保存した後に終了します。
-一度ゲームを再開すると保存ファイルは再び削除されます。
+#Saves the game for later and exits. Once you resume the game, the save file is
+#deleted again.
 %%%%
 CMD_EDIT_PLAYER_TILE
 
-プレイヤータイルの改造
+#Modify the player tile
 %%%%
 CMD_EDIT_PLAYER_TILE verbose
 
-プレイヤードールに表示される装備と種族のタイルを変更します。
+#Allows you to modify the equipment and species tile displayed in the player
+#doll.
 %%%%
 CMD_DISPLAY_COMMANDS
 
-ゲームのヘルプ
+#Game help
 %%%%
 CMD_DISPLAY_COMMANDS verbose
 
-コマンド、オプション、その他の一覧表を表示する。
+#Displays a list of commands.
+%%%%
+CMD_CHARACTER_DUMP
+
+#Dump character's progress
+%%%%
+CMD_CHARACTER_DUMP verbose
+
+#Dumps detailed information about your character into a file ‘playername.txt’ in
+#the morgue directory, to peruse at your leisure. This includes main stats,
+#equipment, spells, skills, notes, etc.
 %%%%
 CMD_AUTOFIGHT
 
-近くの敵モンスターとの自動戦闘
+#Hit the closest monster
 %%%%
 CMD_AUTOFIGHT verbose
 
-最も近い敵に向かって移動し、装備した武器で攻撃する。
+#Moves towards the closest hostile monster, or attacks an adjacent monster with
+#your current weapon.
 %%%%
 CMD_AUTOFIGHT_NOMOVE
 
-隣接した敵モンスターとの自動戦闘
+#Hit an adjacent monster
 %%%%
 CMD_AUTOFIGHT_NOMOVE verbose
 
-あなたが装備した武器で隣接した敵モンスターと自動戦闘を行う。
+#Attacks an adjacent monster with your current weapon.
 %%%%
 CMD_WAIT
 
-1ターンの休憩
+#Wait a single turn
 %%%%
 CMD_WAIT verbose
 
-1ターン待機し、休息する。
+#Spends a single turn waiting and resting.
+%%%%
+CMD_SAFE_WAIT
+
+#Wait a single turn if safe
+%%%%
+CMD_SAFE_WAIT verbose
+
+#Spends a single turn waiting and resting, but only if there are no hostile
+#monsters in view.
 %%%%
 CMD_DISPLAY_INVENTORY
 
-インベントリの表示
+#Display the contents of your inventory
 %%%%
 CMD_DISPLAY_INVENTORY verbose
 
-あなたのインベントリの内容を表示する。
+#Displays the contents of your inventory.
 %%%%
 CMD_CAST_SPELL
 
-呪文の詠唱
+#Cast a spell
 %%%%
 CMD_CAST_SPELL verbose
 
-呪文を唱える。
+#Casts a spell.
 %%%%
 CMD_BUTCHER
 
-死体を捌く
+#Butcher corpse
 %%%%
 CMD_BUTCHER verbose
 
-死体を厚切れに捌く。
+#Butchers a corpse into chunks.
 %%%%
 CMD_MEMORISE_SPELL
 
-呪文の記憶
+#Memorise spell
 %%%%
 CMD_MEMORISE_SPELL verbose
 
-所持している本、もしくは足元にある本を読み、呪文を記憶に留める。
+#Memorises a chosen spell from a book you are carrying or standing on.
+%%%%
+CMD_LOOKUP_HELP
+
+#Lookup help
+%%%%
+CMD_LOOKUP_HELP verbose
+
+#Looks up descriptions of monsters, spells, abilities, items and more.
 %%%%
 CMD_DROP
 
-アイテムを落とす
+#Drop items
 %%%%
 CMD_DROP verbose
 
-あなたの現在所持している1つまたは複数のアイテムを落とす。
+#Drops one or more items that you are currently holding.
 %%%%
 CMD_DISPLAY_MAP
 
-地図モードに移行
+#Enter map mode
 %%%%
 CMD_DISPLAY_MAP verbose
 
-以前探索したマップを探訪する。
+#Displays a map of the current level.
 %%%%
 CMD_MAP_GOTO_TARGET
 
-カーソル位置への移動
+#Travel to cursor
 %%%%
 CMD_MAP_GOTO_TARGET verbose
 
-現在のカーソル位置まで移動を開始する。
+#Starts travelling to the cursor's current location.
+%%%%
+CMD_MAP_EXPLORE
+
+#Find next autoexplore target
+%%%%
+CMD_MAP_EXPLORE verbose
+
+#Moves the cursor to the next location that autoexplore will travel to.
 %%%%
 CMD_MAP_ADD_WAYPOINT
 
-中間地点の登録
+#Add waypoint
 %%%%
 CMD_MAP_ADD_WAYPOINT verbose
 
-現在地点を中間地点に設定する。
+#Sets a waypoint at your current position.
 %%%%
 CMD_MAP_EXCLUDE_AREA
 
-探索禁域の設定
+#Create exclusion
 %%%%
 CMD_MAP_EXCLUDE_AREA verbose
 
-探索禁域を設定、範囲の変更、領域の削除を行う。
+#Creates a travel exclusion, changes its radius, or removes it.
 %%%%
 CMD_MAP_CLEAR_EXCLUDES
 
-探索禁域の削除
+#Clear travel exclusions
 %%%%
 CMD_MAP_CLEAR_EXCLUDES verbose
 
-この階層の全ての探索禁域を削除する。
+#Erases all travel exclusions on the level.
 %%%%
 CMD_MAP_NEXT_LEVEL
 
-下の階層に降りる
+#Down one level
 %%%%
 CMD_MAP_NEXT_LEVEL verbose
 
-次の下層を調べる。
+#Displays the next deeper level.
 %%%%
 CMD_MAP_PREV_LEVEL
 
-上の階層に上る
+#Up one level
 %%%%
 CMD_MAP_PREV_LEVEL verbose
 
-次の上層を調べる。
+#Displays the next higher level.
 %%%%
 CMD_MAP_GOTO_LEVEL
 
-階層の移動
+#Go to level
 %%%%
 CMD_MAP_GOTO_LEVEL verbose
 
-分岐や階層を通って別の階層に行く。
+#Displays another chosen level by branch and depth.
 %%%%
 CMD_MAP_FIND_UPSTAIR
 
-登り階段の検索
+#Find stairs up
 %%%%
 CMD_MAP_FIND_UPSTAIR verbose
 
-登り階段に移動する。
+#Cycles through stairs up.
 %%%%
 CMD_MAP_FIND_DOWNSTAIR
 
-下り階段の検索
+#Find stairs down
 %%%%
 CMD_MAP_FIND_DOWNSTAIR verbose
 
-下り階段に移動する。
+#Cycles through stairs down.
 %%%%
 CMD_MAP_FIND_YOU
 
-自分自身の検索
+#Find me
 %%%%
 CMD_MAP_FIND_YOU verbose
 
-マップカーソルをあなたの現在の位置に戻す。
+#Moves the map cursor back to your current position.
 %%%%
 CMD_MAP_FIND_PORTAL
 
-店、ポータルの検索
+#Find shops and portals
 %%%%
 CMD_MAP_FIND_PORTAL verbose
 
-現在の階層の店かポータルに移動する。
+#Cycles through shops and portals on the current level.
 %%%%
 CMD_MAP_FIND_TRAP
 
-罠の検索
+#Find traps
 %%%%
 CMD_MAP_FIND_TRAP verbose
 
-現在の階層の罠に移動する。
+#Cycles through traps on the current level.
 %%%%
 CMD_MAP_FIND_ALTAR
 
-祭壇の検索
+#Find altars
 %%%%
 CMD_MAP_FIND_ALTAR verbose
 
-現在の階層の祭壇を移動する。
+#Cycles through altars on the current level.
 %%%%
 CMD_MAP_FIND_EXCLUDED
 
-探索禁域の検索
+#Find travel exclusion
 %%%%
 CMD_MAP_FIND_EXCLUDED verbose
 
-現在の階層の全ての探索禁域を移動する。
+#Cycles through travel exclusions on the current level.
 %%%%
 CMD_MAP_FIND_WAYPOINT
 
-中間地点の検索
+#Find waypoint
 %%%%
 CMD_MAP_FIND_WAYPOINT verbose
 
-現在の階層の全ての中間地点を移動する。
+#Cycles through all waypoints on the current level.
 %%%%
 CMD_MAP_FIND_STASH
 
-キャンプの検索
+#Find stash
 %%%%
 CMD_MAP_FIND_STASH verbose
 
-現在の階層の全てのキャンプを移動する。
+#Cycles through all stashes on the current level.
 %%%%
 CMD_ZOOM_IN
 
-拡大
+#Zoom in
 %%%%
 CMD_ZOOM_IN verbose
 
-ダンジョン領域を拡大する。
+#Zooms in on dungeon area.
 %%%%
 CMD_ZOOM_OUT
 
-縮小
+#Zoom out
 %%%%
 CMD_ZOOM_OUT verbose
 
-ダンジョン領域を縮小する。
+#Zooms out on dungeon area.
+%%%%
+CMD_SHOW_KEYBOARD
+
+#Show keyboard
 %%%%
